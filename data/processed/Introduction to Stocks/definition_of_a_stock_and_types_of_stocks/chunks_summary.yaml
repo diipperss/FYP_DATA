@@ -1,0 +1,36 @@
+Do not format as a webpage. Do not use Markdown or any other format. YAML is the preferred format for this educational app frontend.
+
+```
+---
+title: Introduction to Stocks
+summary: Learn the basics of stocks, including the definition of a stock and types of stocks. Stocks are a popular investment option for those looking to grow their wealth. In this lesson, we will cover the definition of a stock and the different types of stocks available. We will also discuss the importance of asset allocation and diversification in a stock portfolio.
+
+key_points:
+  - A stock represents ownership in a publicly traded company.
+  - Stocks are traded on stock exchanges, such as the New York Stock Exchange (NYSE) or the NASDAQ.
+  - There are different types of stocks, including common stock, preferred stock, and convertible stocks.
+  - Stock prices can fluctuate based on a variety of factors, including the company's financial performance and market trends.
+  - Asset allocation and diversification are important considerations when building a stock portfolio.
+
+examples:
+  - Example 1: Apple Inc. (AAPL) is a publicly traded company that issues common stock.
+  - Example 2: Johnson & Johnson (JNJ) is a publicly traded company that issues preferred stock.
+  - Example 3: A convertible stock is a type of stock that can be converted into a predetermined number of shares of another security, such as a bond or another stock.
+
+definitions:
+  - **Stock**: A type of security that represents ownership in a publicly traded company.
+  - **Common stock**: A type of stock that gives shareholders voting rights and the potential to receive dividends.
+  - **Preferred stock**: A type of stock that gives shareholders a higher claim on assets and earnings than common stockholders.
+  - **Convertible stock**: A type of stock that can be converted into a predetermined number of shares of another security.
+
+common_mistakes:
+  - Assuming that all stocks are the same and that there is no difference between common and preferred stock.
+
+questions_to_think:
+  - How do you determine the value of a stock?
+  - What are the different types of stocks available, and how do they differ from one another?
+
+source:
+  - Various sources, including the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA).
+```
+This YAML file contains the final structured lesson for the educational app frontend. The title, summary, key points, examples, definitions, common mistakes, and questions to think are all included. The source is cited as various sources, including the Securities and Exchange Commission (SEC) and the Financial Industry Regulatory Authority (FINRA). The YAML format is used to create a structured and easily readable output. This lesson provides a comprehensive introduction to the basics of stocks, including the definition of a stock and types of stocks. It is designed to help users understand the concept of stocks and how they can be used as an investment option.

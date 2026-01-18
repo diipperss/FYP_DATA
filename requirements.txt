@@ -1,0 +1,8 @@
+crawl4ai==0.7.8
+beautifulsoup4
+lxml
+playwright
+python-dotenv
+requests
+asyncio
+llama-cpp-python

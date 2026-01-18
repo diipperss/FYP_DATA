@@ -1,0 +1,39 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+.venv/
+
+# =========================
+# Crawl / Generated Data
+# =========================
+#data/
+*.log
+
+# =========================
+# Playwright
+# =========================
+.ms-playwright/
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# =========================
+# LLaMA / Model Files
+# =========================
+models/*.gguf
+Meta-Llama-3-8B-Instruct.Q4_K_M.gguf
