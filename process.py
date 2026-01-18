@@ -13,10 +13,8 @@ MODEL_PATH = os.getenv("MODEL_PATH")
 # ===============================
 
 CTX_SIZE = 2048
-MAX_MICRO_TOKENS = 300
 MAX_FINAL_TOKENS = 1500
-MAX_CHUNK_CHARS = 1000
-MAX_NOTES_CHARS = 3000
+MAX_CHUNK_CHARS = 3000  # can increase depending on model RAM
 
 # ===============================
 # INITIALIZE MODEL
@@ -29,25 +27,13 @@ llm = Llama(
 )
 
 # ===============================
-# PROMPTS
+# PROMPT
 # ===============================
-def micro_summary_prompt(text):
-    return f"""
-Summarize the text below into concise study notes.
-Keep only definitions, key ideas, and examples.
-No fluff.
-
-Text:
-{text}
-
-Notes:
-""".strip()
-
-def final_summary_prompt(notes, topic, subtopic, source):
+def final_summary_prompt(raw_text, topic, subtopic, source):
     return f"""
 You are an expert trading educator.
 
-Using the summarized notes below, create a FINAL structured lesson
+Using the text below, create a FINAL structured lesson
 for an educational app frontend.
 
 Requirements:
@@ -60,8 +46,8 @@ Requirements:
 7. questions_to_think (1–2)
 8. source: cite the original source of the content.
 
-Notes:
-{notes}
+Text:
+{raw_text}
 
 Topic: {topic}
 Subtopic: {subtopic}
@@ -120,23 +106,18 @@ for main_topic in os.listdir(RAW_DIR):
             raw_text = safe_truncate(raw_text, MAX_CHUNK_CHARS)
             print(f"Processing file: {raw_path} (length {len(raw_text)})")
 
-            # Micro summary
-            micro = generate(micro_summary_prompt(raw_text), MAX_MICRO_TOKENS)
-            if not micro:
-                print(f"Skipping {file} — empty micro summary")
-                continue
-            #print(f"Micro summary preview: {micro[:100]}...")
+            # Generate final YAML directly from raw text
+            final_yaml = generate(
+                final_summary_prompt(raw_text, main_topic, subtopic, "Various sources"),
+                MAX_FINAL_TOKENS
+            )
 
-            micro = safe_truncate(micro, MAX_NOTES_CHARS)
-
-            # Final YAML
-            final_yaml = generate(final_summary_prompt(micro, main_topic, subtopic, "Various sources"), MAX_FINAL_TOKENS)
             if not final_yaml:
                 print(f"Skipping {file} — empty final YAML")
                 continue
 
             out_path = os.path.join(PROCESSED_DIR, main_topic, subtopic, f"{os.path.splitext(file)[0]}_summary.yaml")
             save_yaml(final_yaml, out_path)
-            print(f"✅ Saved summary for {file} → {out_path} (length {len(final_yaml)} chars)")
+            print(f" Saved summary for {file} → {out_path} (length {len(final_yaml)} chars)")
 
-print("\n🎉 Completed all processing.")
+print("\n Completed all processing.")
