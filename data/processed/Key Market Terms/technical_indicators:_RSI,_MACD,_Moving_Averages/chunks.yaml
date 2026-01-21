@@ -1,0 +1,25 @@
+title: Technical Indicators: RSI, MACD, and Moving Averages
+summary: The MACD and RSI are momentum indicators used in trading to analyze market trends. While MACD measures the relationship between moving averages, RSI gauges price changes relative to recent highs and lows. They serve different purposes and can produce conflicting signals, so understanding each helps traders make informed decisions. Both are trend-following indicators used together to provide a more complete technical picture of the market.
+key_points:
+  - MACD tracks the relationship between two exponential moving averages (EMAs), typically a 12-period and 26-period EMA.
+  - RSI measures price changes relative to recent highs and lows, indicating overbought or oversold conditions.
+  - MACD is calculated by subtracting the 26-period EMA from the 12-period EMA, with a nine-day EMA forming the signal line.
+  - The RSI and MACD are both trend-following momentum indicators used together for a more comprehensive technical analysis.
+examples:
+  - A scenario where RSI shows overbought conditions (above 70) while MACD indicates continued momentum.
+  - A situation where price continues higher while the RSI turns lower, signaling potential trend reversal.
+definitions:
+  - term: MACD
+    definition: A momentum indicator that measures the relationship between two exponential moving averages (EMAs), typically a 12-period and 26-period EMA. It includes a signal line derived from a nine-day EMA of the MACD line.
+  - term: RSI
+    definition: A momentum indicator that gauges price changes relative to recent highs and lows, indicating overbought (above 70) or oversold (below 30) conditions.
+  - term: Exponential Moving Average (EMA)
+    definition: A type of moving average that gives more weight to recent prices, used in calculating indicators like MACD.
+common_mistakes:
+  - Confusing the purpose of MACD and RSI, leading to conflicting trading signals.
+  - Overreliance on a single indicator without considering how they interact.
+questions_to_think:
+  - How do MACD and RSI differ in their approach to measuring market momentum?
+  - What are the limitations of using only one of these indicators for trading decisions?
+  - How can traders effectively combine MACD and RSI to enhance their technical analysis?
+source: https://www.investopedia.com/ask/answers/122214/what-are-main-differences-between-moving-average-convergence-divergence-macd-relative-strength-index.asp

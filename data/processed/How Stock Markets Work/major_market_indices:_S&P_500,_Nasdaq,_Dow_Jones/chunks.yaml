@@ -1,0 +1,27 @@
+title: Major Market Indices: S&P 500, Nasdaq, Dow Jones
+summary: The text presents current market data for major U.S. indices including the Dow Jones Industrial Average, NASDAQ Composite Index, and S&P 500 Index, showing their latest prices, changes, and percentage changes. It also includes related market news and stock performance highlights.
+key_points:
+  - The Dow Jones Industrial Average closed at 48,488.59 with a decline of 870.74 (-1.76%).
+  - The NASDAQ Composite Index closed at 22,954.32 with a decline of 561.07 (-2.39%).
+  - The S&P 500 Index closed at 6,796.86 with a decline of 143.15 (-2.06%).
+  - The Global Dow Realtime USD closed at 6,248.14 with a slight decline of 7.09 (-0.11%).
+  - Gold Continuous Contract increased to $4,881.70 with a rise of 115.90 (2.43%).
+  - Crude Oil WTI (NYM $/bbl) Front Month rose slightly to $60.41 with a change of 0.05 (0.08%).
+examples:
+  - Dow Jones: 48,488.59 | -870.74 | -1.76%
+  - NASDAQ Composite: 22,954.32 | -561.07 | -2.39%
+  - S&P 500: 6,796.86 | -143.15 | -2.06%
+definitions:
+  - term: Market Index
+    definition: A statistical measure of the performance of a group of securities representing a specific market segment.
+  - term: Change Percentage
+    definition: The percentage change in the value of an index from the previous day's close.
+common_mistakes:
+  - Confusing the change value with the percentage change.
+  - Misinterpreting the direction of the change (e.g., negative values indicate a decline).
+  - Not considering the context of the market conditions when analyzing index movements.
+questions_to_think:
+  - How do the changes in these major indices reflect the overall health of the U.S. market?
+  - What factors could influence the performance of the S&P 500 compared to the Dow Jones?
+  - Why might investors be particularly concerned about the performance of the NASDAQ Composite Index?
+source: https://www.marketwatch.com/market-data/us?gaa_at=eafs&gaa_n=AWEtsqeuQFNCuwm_QaIKpe2OGQ-JGSDSpNqz9TaxpaMLoJve--gLT2xi-NDM&gaa_ts=6970e119&gaa_sig=xnpz0uRs6IR4LPtjj1ISbsLImFa0dxJ-UC94jMTI3AXydTmeaTfAHigsiTZ0xls-3S17VuMDME6be5eMnl-9hA%3D%3D

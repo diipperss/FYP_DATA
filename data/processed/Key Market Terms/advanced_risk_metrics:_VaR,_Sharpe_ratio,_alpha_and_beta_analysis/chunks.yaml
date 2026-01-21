@@ -1,0 +1,40 @@
+title: Risk Measures
+summary: Risk measures are statistical tools used to assess investment risk and volatility. They help investors evaluate potential returns and risks associated with different assets, enabling informed decision-making. Common measures include alpha, beta, R-squared, standard deviation, and the Sharpe ratio.
+key_points:
+  - Risk measures provide a quantitative assessment of investment risk.
+  - They help investors compare different investments and assess their risk-return profiles.
+  - Alpha measures performance relative to a benchmark, indicating outperformance or underperformance.
+  - Beta quantifies an investment's volatility relative to the market.
+  - R-squared indicates the correlation between an investment and its benchmark.
+  - Standard deviation measures the dispersion of returns around the mean, reflecting volatility.
+  - The Sharpe ratio evaluates risk-adjusted returns by comparing excess return to volatility.
+examples:
+  - A fund with a positive alpha outperforms its benchmark index.
+  - A stock with a high beta is more volatile than the market.
+  - An R-squared of 95 suggests a strong correlation with the benchmark.
+  - A higher standard deviation indicates greater volatility.
+  - A higher Sharpe ratio implies better risk-adjusted performance.
+definitions:
+  - term: Alpha
+    definition: A measure of an investment's performance relative to a benchmark index, indicating whether it outperforms or underperforms.
+  - term: Beta
+    definition: A measure of an investment's volatility in relation to the overall market, with values above 1 indicating higher volatility.
+  - term: R-Squared
+    definition: A statistical measure representing the proportion of an investment's movement that can be explained by movements in its benchmark index.
+  - term: Standard Deviation
+    definition: A statistical measure of the dispersion of returns around the mean, indicating the level of volatility.
+  - term: Sharpe Ratio
+    definition: A risk-adjusted performance measure that calculates the excess return per unit of risk, comparing the return of an investment to the risk-free rate.
+common_mistakes:
+  - Confusing beta with R-squared, as both relate to market correlation but measure different aspects.
+  - Using standard deviation without considering the time period, leading to inaccurate volatility assessments.
+  - Misinterpreting alpha as a standalone measure without considering market conditions.
+  - Overlooking the importance of diversification when using risk measures for portfolio management.
+  - Applying the Sharpe ratio to assets with negative returns, which can distort the results.
+questions_to_think:
+  - How does alpha differ from the Sharpe ratio in evaluating investment performance?
+  - What are the limitations of using standard deviation as a measure of risk?
+  - In what scenarios might a high beta be beneficial for an investor?
+  - How can R-squared be used to assess the reliability of a fund's performance?
+  - What factors should be considered when interpreting the Sharpe ratio for a given investment?
+source: https://www.investopedia.com/terms/r/riskmeasures.asp

@@ -1,0 +1,27 @@
+title: How Stock Markets Work
+summary: This article explains the typical trading hours of U.S. stock markets, including pre-market and after-hours trading, and discusses how extended trading hours have impacted stock prices and liquidity.
+key_points:
+  - U.S. stock markets typically open at 9:30 a.m. and close at 4:00 p.m. ET on weekdays.
+  - Pre-market trading occurs from 6:30 a.m. to 9:30 a.m. ET, while after-hours trading runs from 4:00 p.m. to 8:00 p.m. ET.
+  - Electronic communication networks handle trades during extended hours, not the exchanges themselves.
+  - Pre-market and after-hours trading are limited to limit orders due to lower liquidity.
+  - Overnight trading allows for trading outside of pre-market and after-hours, with some brokers offering this feature.
+examples:
+  - Schwab allows limit orders during specific pre-market and after-hours windows.
+  - Interactive Brokers and Robinhood offer overnight trading facilities.
+definitions:
+  - term: pre-market trading
+    definition: Trading activity that occurs before the official opening of the stock market, typically between 6:30 a.m. and 9:30 a.m. ET.
+  - term: after-hours trading
+    definition: Trading activity that occurs after the official closing of the stock market, typically between 4:00 p.m. and 8:00 p.m. ET.
+  - term: electronic communication networks (ECNs)
+    definition: Digital platforms that facilitate trades during extended hours when traditional exchanges are closed.
+common_mistakes:
+  - Confusing pre-market and after-hours trading with regular trading hours.
+  - Assuming that all brokers offer the same extended trading options.
+  - Believing that stock prices during extended hours are always accurate or reflective of market conditions.
+questions_to_think:
+  - What are the differences between pre-market and after-hours trading?
+  - How do extended trading hours affect stock prices and liquidity?
+  - Which brokers offer overnight trading, and what are their specific hours?
+source: https://www.investopedia.com/ask/answers/06/preaftermarket.asp

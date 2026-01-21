@@ -1,0 +1,32 @@
+title: Introduction to Stocks
+summary: Shares represent units of ownership in a company, available as common or preferred types. They allow investors to participate in the company's growth through dividends and capital gains, with preferred shares offering priority in distributions. Shares are non-reimbursable, and companies can repurchase or redeem them under specific conditions. Key aspects include ownership structure, types of shares, and regulatory frameworks.
+key_points:
+  - Shares are units of ownership in a company, available as common or preferred shares.
+  - Common shares provide voting rights and residual claims on profits, while preferred shares have priority in distributions and typically no voting rights.
+  - Shares are non-reimbursable, meaning companies aren't legally required to return investors' money.
+  - Companies can issue, repurchase, or redeem shares, with authorized shares set by the board.
+  - Publicly traded shares are regulated by the SEC, while private shares may be issued through stock options.
+  - Fractional shares allow investors to purchase portions of a single share, making stock more accessible.
+examples:
+  - A company authorizes 10 million shares but issues only 8 million.
+  - An investor with $100 could buy 0.1 shares of a stock priced at $1,000 per share.
+definitions:
+  - term: Shares
+    definition: Units of ownership in a company, available as common or preferred, representing equity stakes.
+  - term: Common Shares
+    definition: Shares providing voting rights and residual claims on profits, with potential growth through dividends and capital gains.
+  - term: Preferred Shares
+    definition: Shares with priority in distributions and set payment criteria, typically without voting rights.
+  - term: Authorized Shares
+    definition: The maximum number of shares a company can issue, determined by its board of directors.
+  - term: Fractional Shares
+    definition: Portions of a single share, allowing investors to purchase a part of a stock based on their investment amount.
+common_mistakes:
+  - Confusing "shares" and "stocks" as interchangeable terms when they have distinct technical definitions.
+  - Assuming that all shares are treated equally, not recognizing the differences between common and preferred shares.
+  - Believing that companies must reimburse shareholders for their investments, not understanding that shares are non-reimbursable.
+questions_to_think:
+  - What are the key differences between common shares and preferred shares?
+  - How does the concept of fractional shares benefit individual investors with limited capital?
+  - What regulatory bodies oversee the trading of shares in public and private markets?
+source: https://www.investopedia.com/terms/s/shares.asp

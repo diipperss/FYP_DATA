@@ -1,0 +1,31 @@
+title: 5 Short Interest Metrics That Drive Stock Prices
+summary: Short interest data provides insights into bearish bets, helping traders identify potential short squeezes, avoid crowded trades, and anticipate price movements. Understanding these metrics enhances analysis by gauging market sentiment and conviction levels.
+key_points:
+  - Short interest measures shares sold short but not yet covered.
+  - High short interest indicates significant bearish sentiment.
+  - Short sellers must buy back shares to close positions, creating buying pressure.
+  - Short interest data is reported twice monthly by FINRA.
+  - Short squeeze potential increases with higher short float percentages.
+examples:
+  - Company A (50 million shares short, 2 billion outstanding) vs. Company B (5 million short, 20 million outstanding) shows Company B is more crowded.
+  - GameStop's short squeeze in 2021 with over 100% short interest.
+definitions:
+  - term: Short Interest
+    definition: The total number of shares that investors have sold short and not yet repurchased or covered.
+  - term: Short Float Percentage
+    definition: Short interest as a percentage of a stock’s float, indicating how crowded the short trade is.
+  - term: Float
+    definition: Shares available for public trading, excluding insider holdings and restricted stock.
+  - term: Short % of Outstanding Shares
+    definition: Short interest as a percentage of total shares outstanding, providing a different perspective than short float percentage.
+  - term: Short Squeeze
+    definition: A situation where a heavily shorted stock starts rising, forcing short sellers to buy back shares and driving prices higher.
+common_mistakes:
+  - Confusing short float percentage with short interest numbers.
+  - Ignoring the impact of float size on short squeeze potential.
+  - Failing to consider volume and relative strength in analyzing short interest.
+questions_to_think:
+  - How does short interest data help in predicting potential short squeezes?
+  - What factors should be considered when evaluating the risk of a short squeeze?
+  - How can short float percentage be used to assess the likelihood of a short squeeze?
+source: https://deepvue.com/fundamentals/short-interest/

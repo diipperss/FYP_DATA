@@ -1,0 +1,26 @@
+title: Bid Ask Spread: How It Works and Why It Matters
+summary: The bid-ask spread is the difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept. It represents the cost of trading, with narrower spreads indicating higher liquidity and wider spreads indicating lower liquidity. This article explains how bid and ask prices are determined, their impact on trading, and factors that influence the spread.
+key_points:
+  - Bid and ask prices represent the highest price a buyer is willing to pay and the lowest price a seller is willing to accept.
+  - The bid-ask spread is the difference between these two prices and reflects the cost of trading.
+  - More liquid markets have tighter bid-ask spreads, while volatile or illiquid markets have wider spreads.
+  - Market makers set bid and ask prices, profiting from the spread.
+  - The spread indicates a security's liquidity, with tighter spreads meaning higher liquidity.
+examples:
+  - Blue-chip companies like those in the Dow Jones may have a bid-ask spread of just a few cents.
+  - Small-cap stocks trading less than 10,000 shares daily might have spreads of $0.50 or more.
+definitions:
+  - term: Bid
+    definition: The highest price a buyer is willing to pay for a security.
+  - term: Ask
+    definition: The lowest price a seller is willing to accept for a security.
+  - term: Bid-Ask Spread
+    definition: The difference between the bid and ask prices, representing the cost of trading.
+common_mistakes:
+  - Confusing bid and ask prices, leading to incorrect trading decisions.
+  - Ignoring the spread as a cost of trading, which can reduce overall returns.
+questions_to_think:
+  - How does the bid-ask spread affect the cost of trading for retail investors?
+  - What factors contribute to wider bid-ask spreads in certain markets?
+  - How do market makers profit from the bid-ask spread?
+source: https://www.investopedia.com/terms/b/bid-and-ask.asp

@@ -1,0 +1,26 @@
+title: Understanding Market, Limit, and Stop Orders
+summary: This article explains the three common order types used in stock trading: market orders, limit orders, and stop orders. It describes when and how to use each type to achieve specific trading goals.
+key_points:
+  - Market orders execute at the best available price but don't guarantee a specific price.
+  - Limit orders specify a maximum buy price or minimum sell price, ensuring better execution prices but not guaranteed execution.
+  - Stop orders trigger a market order when a stock reaches a specified price, used for protection against losses or to capture gains.
+examples:
+  - Market order example: A trader might use a market order to buy a stock immediately at the current price.
+  - Limit order example: A trader might place a buy limit order below the current price to purchase a stock at a lower price.
+  - Stop order example: A sell stop order could be placed below the current market price to protect against a potential decline.
+definitions:
+  - term: Market Order
+    definition: An order to buy or sell a stock at the market's best available price, ensuring execution but not a specific price.
+  - term: Limit Order
+    definition: An order to buy or sell a stock with a restriction on the maximum price to be paid (for a buy) or the minimum price to be received (for a sell), ensuring better execution prices but not guaranteed execution.
+  - term: Stop Order
+    definition: An order to buy or sell a stock at the market price once the stock has traded at or through a specified price (the "stop price"), which then becomes a market order.
+common_mistakes:
+  - Confusing market orders with limit orders, leading to unexpected execution prices.
+  - Not considering liquidity and market volatility when placing limit orders, which can result in unfilled orders.
+  - Using stop orders without understanding the risk of slippage, which can lead to execution at prices significantly different from the stop price.
+questions_to_think:
+  - When would you use a market order instead of a limit order?
+  - How can you adjust the risk of slippage when using stop orders?
+  - What factors should you consider when setting the stop price for a stop order?
+source: https://www.schwab.com/learn/story/3-order-types-market-limit-and-stop-orders
