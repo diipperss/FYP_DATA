@@ -1,23 +1,36 @@
 title: Introduction to Stocks
-summary: This text explains what stocks are, their role in corporate finance, and the different types of stocks available. It covers ownership, shareholder rights, and the distinction between common and preferred stock.
+summary: This lesson explains what stocks are, their role in corporate finance, and the different types of stocks available. It covers ownership, shareholder rights, and the distinction between common and preferred stock.
 key_points:
   - Stocks represent ownership in a corporation.
   - A stock is a security that gives shareholders a claim to a portion of the company's profits.
   - There are two main types of stock: common and preferred.
-  - Shareholders have voting rights and may receive dividends.
-  - Stock ownership is separate from corporate control.
+  - Common shareholders usually have voting rights, while preferred shareholders often do not.
+  - Dividends are not guaranteed and depend on company decisions and profits.
+  - Stock ownership is separate from corporate control, which depends on voting power.
+  - Companies issue stock to raise capital without taking on debt.
 examples:
   - A shareholder owning 33% of shares does not own one-third of the company, but owns one-third of the shares.
-  - Corporations issue stock to raise funds for operations and growth.
+  - A company issues new shares in an IPO to raise money for expansion and marketing.
+  - An investor buys common shares to vote on board elections and potentially receive dividends.
 definitions:
   - term: Stock
     definition: A stock, also called an equity or a share, is an ownership stake in the corporation that issued it.
   - term: Shareholder
     definition: A person, company, or institution that owns at least one share of a company's stock.
   - term: Common Stock
-    definition: Common stock usually entitles the owner to vote at shareholders’ meetings and to receive any dividends paid out by the corporation.
+    definition: Common stock usually entitles the owner to vote at shareholders’ meetings and to receive any dividends paid out by the corporation. 
   - term: Preferred Stock
-    definition: Preferred stock typically does not have voting rights but may receive dividends before common stockholders.
+    definition: Preferred stock typically does not have voting rights but may receive dividends before common stockholders. 
+  - term: Dividend
+    definition: A portion of a company's earnings that is distributed to shareholders, usually on a regular basis.
+  - term: Equity
+    definition: Ownership in a company, represented by shares of stock.
+  - term: IPO (Initial Public Offering)
+    definition: The first time a private company sells shares to the public to raise capital.
+  - term: Assets
+    definition: Anything of value that is owned by a person or company.
+  - term: Liquidation
+    definition: The process of bringing a business to an end and distributing its assets to claimants.
 common_mistakes:
   - Confusing ownership of shares with actual control of the corporation.
   - Assuming that owning a majority of shares equates to owning the entire company.

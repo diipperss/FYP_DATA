@@ -6,17 +6,25 @@ key_points:
   - Modern exchanges are sophisticated and often digital, supporting high-volume trading.
   - Key concepts include IPOs, market indices, and primary vs. secondary markets.
   - The NYSE and Nasdaq are the two largest exchanges by market capitalization.
+  - Primary markets are where companies sell new shares, while secondary markets are where investors trade existing shares.
 examples:
   - An IPO allows a company to sell shares to the public for the first time.
   - The NYSE closing auction is one of the busiest trading times, with an average of 223 million shares traded.
   - The bid-ask spread is the difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept.
+  - OTC markets allow smaller companies to trade without listing on major exchanges.
 definitions:
   - term: Stock Exchange
     definition: An organized marketplace where shares of ownership in companies are traded between buyers and sellers.
   - term: IPO
     definition: The process by which a company sells shares to the public for the first time, typically in the primary market.
+  - term: Primary Market
+    definition: The market where new securities are issued and sold to investors.
+  - term: Secondary Market
+    definition: The market where existing securities are bought and sold between investors.
   - term: Bid-Ask Spread
     definition: The difference between the highest price a buyer is willing to pay (bid) and the lowest price a seller is willing to accept (ask).
+  - term: Market Maker
+    definition: A firm or trader that provides buy and sell quotes to keep trading active.
 common_mistakes:
   - Confusing the primary market with the secondary market.
   - Not understanding the role of market makers in providing liquidity.

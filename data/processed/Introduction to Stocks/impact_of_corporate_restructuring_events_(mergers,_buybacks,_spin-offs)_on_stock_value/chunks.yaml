@@ -6,10 +6,12 @@ key_points:
   - Spin-offs result in separate entities with their own management teams.
   - Split-offs require shareholders to choose between parent company shares or subsidiary shares.
   - Carve-outs often precede full spin-offs and can provide cash inflows to the parent company.
+  - These events can change a stock's value by altering growth prospects, risk profile, and cash flows.
 examples:
   - Baxalta's spin-off led to a takeover by Shire Pharmaceuticals, resulting in the formation of Takeda Biopharmaceuticals India Private Limited.
   - Bristol-Myers' split-off involved an exchange ratio of 0.6313 for Mead Johnson shares.
   - A carve-out example is when a subsidiary's stock is offered in an IPO with no more than 20% of the stock being sold to satisfy tax-free spin-off requirements.
+  - A parent company spins off a slow-growth unit so investors can value each business separately.
 definitions:
   - term: Spin-Off
     definition: A method where a parent company creates a separate entity from its subsidiary, allowing existing shareholders to hold shares of both the parent and the new subsidiary.
@@ -17,6 +19,12 @@ definitions:
     definition: A method where shareholders are offered shares in a subsidiary but must choose between holding shares of the subsidiary or the parent company.
   - term: Carve-Out
     definition: A method where a subsidiary's stock is offered in an IPO with no more than 20% of the stock being sold to satisfy tax-free spin-off requirements, often preceding a full spin-off.
+  - term: IPO (Initial Public Offering)
+    definition: The first public sale of a company's shares to raise capital.
+  - term: Exchange Ratio
+    definition: The number of subsidiary shares a shareholder receives for each parent share in a split-off.
+  - term: Shareholder Value
+    definition: The value delivered to shareholders through stock price changes and distributions.
 common_mistakes:
   - Confusing the exchange ratios in split-offs with those in spin-offs.
   - Assuming that all spin-offs are tax-free, not considering the structural requirements for tax-free status.

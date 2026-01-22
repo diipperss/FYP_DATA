@@ -6,9 +6,11 @@ key_points:
   - More liquid markets have tighter bid-ask spreads, while volatile or illiquid markets have wider spreads.
   - Market makers set bid and ask prices, profiting from the spread.
   - The spread indicates a security's liquidity, with tighter spreads meaning higher liquidity.
+  - A wider spread can make it harder for short-term traders to profit.
 examples:
   - Blue-chip companies like those in the Dow Jones may have a bid-ask spread of just a few cents.
   - Small-cap stocks trading less than 10,000 shares daily might have spreads of $0.50 or more.
+  - If the bid is $9.95 and the ask is $10.05, the spread is $0.10.
 definitions:
   - term: Bid
     definition: The highest price a buyer is willing to pay for a security.
@@ -16,6 +18,10 @@ definitions:
     definition: The lowest price a seller is willing to accept for a security.
   - term: Bid-Ask Spread
     definition: The difference between the bid and ask prices, representing the cost of trading.
+  - term: Liquidity
+    definition: The ease of buying or selling an asset without significantly moving its price.
+  - term: Market Maker
+    definition: A firm or trader that provides continuous bid and ask quotes to keep a market active.
 common_mistakes:
   - Confusing bid and ask prices, leading to incorrect trading decisions.
   - Ignoring the spread as a cost of trading, which can reduce overall returns.

@@ -6,10 +6,13 @@ key_points:
   - Employment trends, such as the unemployment rate, reflect the labor market's condition.
   - Leading indicators like consumer confidence provide early signals about economic direction.
   - Lagging indicators confirm economic trends after they have occurred.
+  - Inflation and interest rates influence borrowing costs and investor risk appetite.
+  - Markets often react to expectations rather than the data alone.
 examples:
   - The U.S. experienced a 2.8% GDP growth in Q1 2025, driven by consumer spending and business investments.
   - In April 2025, the U.S. unemployment rate dropped to 3.5%, suggesting a healthy labor market.
   - The Consumer Confidence Index (CCI) reached 134.7 in March 2025, indicating increased consumer spending.
+  - Rising interest rates can pressure stock valuations because future earnings are discounted more heavily.
 definitions:
   - term: GDP
     definition: Gross Domestic Product (GDP) measures the total value of all goods and services produced within a country during a specific period, serving as a key indicator of economic performance.
@@ -17,6 +20,14 @@ definitions:
     definition: The unemployment rate represents the percentage of the labor force that is unemployed and actively seeking work, reflecting the health of the labor market.
   - term: Consumer Confidence Index (CCI)
     definition: The Consumer Confidence Index (CCI) gauges the level of optimism consumers have about their financial future, influencing their spending behavior.
+  - term: Leading Indicator
+    definition: A data point that tends to change before the broader economy, used to forecast direction.
+  - term: Lagging Indicator
+    definition: A data point that changes after the economy has already shifted.
+  - term: Inflation
+    definition: The general rise in prices over time, which reduces purchasing power.
+  - term: Interest Rate
+    definition: The cost of borrowing money, often set by central banks and influential for markets.
 common_mistakes:
   - Confusing leading and lagging indicators, which can lead to misinterpretation of economic trends.
   - Overlooking the interconnections between different economic indicators, resulting in incomplete analysis.

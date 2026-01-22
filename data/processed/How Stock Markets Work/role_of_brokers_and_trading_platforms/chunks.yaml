@@ -8,10 +8,12 @@ key_points:
   - Brokers help reduce exchange fees by maintaining inventory of shares.
   - The role of a broker varies between financial and real estate sectors.
   - Brokers must adhere to KYC rules and fiduciary standards for investment advice.
+  - Trading platforms provide the tools to place orders, view prices, and manage portfolios.
 examples:
   - A high-net-worth investor named Amy orders 10,000 shares of Tesla Inc. (TSLA) stock through her broker, who either fills the order immediately or breaks it into smaller trades.
   - Full-service brokers offer a range of services, while discount brokers provide limited services at lower costs.
   - Agency brokers act as agents for clients, executing trades without holding inventory of shares.
+  - A retail investor uses a discount broker app to place a limit order on a stock.
 definitions:
   - term: Broker
     definition: An individual or firm that acts as an intermediary between investors and securities exchanges, charging fees or commissions for their services.
@@ -23,6 +25,12 @@ definitions:
     definition: A broker that acts as an agent for clients, executing trades without holding inventory of shares.
   - term: AUM
     definition: Assets Under Management, referring to the total value of assets that a financial planner or broker manages for their clients.
+  - term: KYC (Know Your Customer)
+    definition: Rules that require brokers to verify customer identity and risk profile.
+  - term: Fiduciary
+    definition: A duty to act in the best interest of the client.
+  - term: Commission
+    definition: A fee paid to a broker for executing a trade.
 common_mistakes:
   - Confusing the roles of brokers and financial advisors, as they have different regulatory standards and compensation structures.
   - Assuming all brokers operate the same way, not recognizing the differences between full-service, discount, and agency brokers.

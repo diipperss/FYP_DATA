@@ -6,9 +6,12 @@ key_points:
   - Short sellers must buy back shares to close positions, creating buying pressure.
   - Short interest data is reported twice monthly by FINRA.
   - Short squeeze potential increases with higher short float percentages.
+  - Days to cover estimates how long it might take shorts to buy back shares based on average volume.
+  - Institutional holdings can reduce the tradable float and affect how crowded a short trade becomes.
 examples:
   - Company A (50 million shares short, 2 billion outstanding) vs. Company B (5 million short, 20 million outstanding) shows Company B is more crowded.
   - GameStop's short squeeze in 2021 with over 100% short interest.
+  - A stock with 5 days to cover may be harder for shorts to exit quickly if price rises.
 definitions:
   - term: Short Interest
     definition: The total number of shares that investors have sold short and not yet repurchased or covered.
@@ -20,10 +23,17 @@ definitions:
     definition: Short interest as a percentage of total shares outstanding, providing a different perspective than short float percentage.
   - term: Short Squeeze
     definition: A situation where a heavily shorted stock starts rising, forcing short sellers to buy back shares and driving prices higher.
+  - term: Days to Cover
+    definition: Short interest divided by average daily volume, estimating how many trading days it may take for shorts to cover.
+  - term: Borrow Fee
+    definition: The interest-like cost paid to borrow shares for short selling, which often rises when shares are scarce.
+  - term: Institutional Holdings
+    definition: Shares held by large investors such as mutual funds, pensions, and ETFs, which can reduce available float.
 common_mistakes:
   - Confusing short float percentage with short interest numbers.
   - Ignoring the impact of float size on short squeeze potential.
   - Failing to consider volume and relative strength in analyzing short interest.
+  - Treating short interest as real-time data, even though reports are delayed.
 questions_to_think:
   - How does short interest data help in predicting potential short squeezes?
   - What factors should be considered when evaluating the risk of a short squeeze?

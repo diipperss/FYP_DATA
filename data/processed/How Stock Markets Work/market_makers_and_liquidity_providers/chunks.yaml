@@ -5,10 +5,12 @@ key_points:
   - Market makers provide quoted buy and sell prices for assets, facilitating efficient trading and market stability.
   - Both entities are crucial for ensuring smooth trading experiences and price stability.
   - They operate under different regulatory frameworks to ensure fair and transparent market practices.
+  - Market makers earn the spread between the bid and ask prices as compensation for providing liquidity.
 examples:
   - Forex markets have high liquidity due to major currency pairs like EUR/USD.
   - Stock markets, especially for blue-chip stocks, offer high liquidity with large daily trading volumes.
   - Crypto markets vary widely, with major cryptocurrencies like Bitcoin and Ethereum having high liquidity.
+  - A market maker posts a bid at $9.98 and an ask at $10.00 to keep trading active in a stock.
 definitions:
   - term: Liquidity
     definition: The ease with which an asset can be bought or sold in a market without affecting its price.
@@ -16,6 +18,8 @@ definitions:
     definition: An entity or individual that provides quoted buy and sell prices for specific financial instruments, ensuring efficient trading.
   - term: Liquidity Provider
     definition: An entity that supplies the necessary funds to execute trades, maintaining market liquidity and stability.
+  - term: Bid-Ask Spread
+    definition: The price difference between the highest buyer bid and the lowest seller ask.
 common_mistakes:
   - Confusing the roles of liquidity providers and market makers, leading to misunderstandings about their market impacts.
   - Assuming that both entities operate under the same regulatory frameworks, when they actually have distinct regulations.

@@ -4,10 +4,13 @@ key_points:
   - Market orders execute at the best available price but don't guarantee a specific price.
   - Limit orders specify a maximum buy price or minimum sell price, ensuring better execution prices but not guaranteed execution.
   - Stop orders trigger a market order when a stock reaches a specified price, used for protection against losses or to capture gains.
+  - Stop-limit orders add a price limit after the stop is triggered, reducing slippage but risking no fill.
+  - Time in force (day, GTC) controls how long an order stays active.
 examples:
   - Market order example: A trader might use a market order to buy a stock immediately at the current price.
   - Limit order example: A trader might place a buy limit order below the current price to purchase a stock at a lower price.
   - Stop order example: A sell stop order could be placed below the current market price to protect against a potential decline.
+  - Stop-limit example: A trader sets a stop at $95 and a limit at $94 to avoid selling far below the stop price.
 definitions:
   - term: Market Order
     definition: An order to buy or sell a stock at the market's best available price, ensuring execution but not a specific price.
@@ -15,6 +18,12 @@ definitions:
     definition: An order to buy or sell a stock with a restriction on the maximum price to be paid (for a buy) or the minimum price to be received (for a sell), ensuring better execution prices but not guaranteed execution.
   - term: Stop Order
     definition: An order to buy or sell a stock at the market price once the stock has traded at or through a specified price (the "stop price"), which then becomes a market order.
+  - term: Stop-Limit Order
+    definition: A stop order that turns into a limit order once triggered, with a specific limit price.
+  - term: Slippage
+    definition: The difference between the expected price of a trade and the price at which it is executed.
+  - term: Time in Force
+    definition: Instructions for how long an order remains active, such as day or good-til-canceled (GTC).
 common_mistakes:
   - Confusing market orders with limit orders, leading to unexpected execution prices.
   - Not considering liquidity and market volatility when placing limit orders, which can result in unfilled orders.

@@ -4,14 +4,23 @@ key_points:
   - Market cap is calculated by multiplying the price per share by the number of shares outstanding.
   - Companies are categorized by market cap into sizes such as mega-cap, large-cap, mid-cap, small-cap, and nano-cap.
   - Market cap helps investors assess a company's size, market value, and potential risks and growth opportunities.
+  - Market cap changes when share price moves or the share count changes (buybacks or new issuance).
+  - Market cap is not the same as company value because debt and cash are excluded.
 examples:
   - A stock trading at $10 with 1 million shares has a market cap of $10 million.
-  - NVIDIA's market cap was $3.6 trillion in late 2024, while Berkshire Hathaway's was over $1 trillion.
+  - If a company issues more shares, its market cap can rise even if the share price stays the same.
 definitions:
   - term: Market Capitalization
     definition: The total market value of a company's outstanding shares of stock, calculated by multiplying the current price of one share by the number of shares available.
+  - term: Outstanding Shares
+    definition: The total number of shares a company has issued and that are held by all investors.
+  - term: Float
+    definition: The portion of shares that are available for public trading, excluding insider and restricted shares.
+  - term: Enterprise Value
+    definition: A broader measure of company value that includes market cap plus debt minus cash.
 common_mistakes:
   - Judging a company's size solely by its stock price rather than considering market cap.
+  - Treating market cap as the same as enterprise value or total business value.
 questions_to_think:
   - How does market capitalization influence investment strategies?
   - Why is it important to consider market cap when evaluating a company's risk and growth potential?

@@ -6,9 +6,12 @@ key_points:
   - Dilution can result from secondary offerings, warrant exercises, and stock acquisitions.
   - Dilution often leads to investor selling, causing stock prices to drop.
   - Understanding dilution is crucial for investors to assess the true value of their holdings.
+  - Dilution can reduce earnings per share (EPS) even if total earnings stay the same.
+  - Buybacks can offset dilution by reducing the number of outstanding shares.
 examples:
   - If a company issues 1000 shares and an investor owns 100, their ownership stake is 10%. After another 1000 shares are issued, their stake drops to 5%.
   - Warrant exercises can lead to significant dilution as warrant holders often buy shares at discounted prices.
+  - A company repurchases 200 shares after an issuance, partially restoring ownership percentages for remaining shareholders.
 definitions:
   - term: Stock Dilution
     definition: The process by which a company increases its outstanding shares, thereby reducing the ownership percentage of existing shareholders.
@@ -20,6 +23,14 @@ definitions:
     definition: Common shares that are available for purchase and sale in the open market without restrictions.
   - term: Restricted Shares
     definition: Shares that are subject to restrictions, typically issued as compensation and must be converted to free trading shares upon meeting certain conditions.
+  - term: Warrant
+    definition: A security that gives the holder the right to buy shares at a set price before expiration.
+  - term: Secondary Offering
+    definition: An additional sale of shares after the IPO to raise more capital.
+  - term: Treasury Shares
+    definition: Shares a company has repurchased and holds in its treasury, reducing outstanding shares.
+  - term: Insider Holdings
+    definition: Shares owned by company executives, directors, or large shareholders with reporting obligations.
 common_mistakes:
   - Misunderstanding that dilution always indicates poor company performance, ignoring the context of the dilution.
   - Failing to account for the impact of dilution on voting power and ownership stakes.

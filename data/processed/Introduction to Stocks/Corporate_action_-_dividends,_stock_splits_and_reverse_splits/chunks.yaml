@@ -4,10 +4,14 @@ key_points:
   - Corporate actions are events that affect shareholder investments.
   - Voluntary actions require shareholder response, while mandatory actions are automatic.
   - Examples include stock splits, dividends, mergers, and spin-offs.
+  - Stock splits change the number of shares and the price per share but not the total value of your position.
+  - Reverse splits do the opposite and are often used to meet listing requirements.
   - Vanguard provides resources for accessing and participating in corporate actions.
 examples:
   - Forward stock split example: 10 million shares at $9 each becomes 30 million shares at $3 each.
   - Reverse stock split example: 10 million shares at $9 each becomes 5 million shares at $18 each.
+  - Cash dividend example: a company pays $0.50 per share, so an investor with 100 shares receives $50.
+  - Spin-off example: a parent company gives shareholders shares in a newly independent subsidiary.
 definitions:
   - term: Corporate Action
     definition: An event initiated by a company that affects shareholders' investments, either voluntarily or mandatorily.
@@ -15,6 +19,8 @@ definitions:
     definition: An event where shareholders can choose an outcome, requiring them to respond to participate.
   - term: Mandatory Corporate Action
     definition: An event with no choice for shareholders, automatically applied to their investments without needing a response.
+  - term: Dividend
+    definition: A cash or stock payment a company makes to shareholders, usually from profits.
   - term: Stock Split
     definition: A corporate action increasing the number of shares to make them more affordable, without changing the shareholder's overall stake.
   - term: Reverse Stock Split

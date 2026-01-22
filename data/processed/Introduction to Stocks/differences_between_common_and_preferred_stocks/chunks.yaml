@@ -4,16 +4,23 @@ key_points:
   - Preferred stock shareholders have priority over common stock shareholders in receiving dividends and assets during liquidation.
   - Preferred stock typically does not grant voting rights, whereas common stock does.
   - Dividends for preferred stock are usually higher and fixed, while common stock dividends are variable and not guaranteed.
-  - Preferred stock has bond-like characteristics, including par value and callability, making it less volatile than common stock.
+  - Preferred stock has bond-like characteristics: par value is the stated issue price used to calculate dividends, and callability lets the issuer redeem the shares at a set price after a certain date.
+  - Because preferred dividends are fixed and priority-based, preferred shares often trade with lower price volatility than common stock.
   - Common stock offers greater growth potential and voting rights but is more volatile and has lower priority in liquidation.
 examples:
-  - Preferred stock provides a predictable income stream, similar to bonds, with dividends determined at issuance.
-  - Common stock allows investors to participate in the company's growth and exercise voting rights on corporate matters.
+  - Preferred stock example: a company issues $25-par preferred shares that pay a fixed 6% dividend and can be called back by the issuer after a set date.
+  - Preferred stock example: investors choose preferred shares to prioritize steady income over voting rights.
+  - Common stock example: shareholders participate in price appreciation and vote on board elections or major corporate actions.
+  - Common stock example: growth-focused investors buy common shares to benefit from long-term company expansion.
 definitions:
   - term: Preferred Stock
     definition: A type of security that shares characteristics of both bonds and stocks, providing investors with a predictable income stream through fixed dividends and priority in asset distribution during liquidation.
   - term: Common Stock
     definition: Shares representing ownership in a corporation, granting investors voting rights and a claim on profits, with lower priority in asset distribution during liquidation compared to preferred stock.
+  - term: Par Value
+    definition: The stated face value of a preferred share, often used to calculate its fixed dividend.
+  - term: Callability
+    definition: A feature that allows the issuer to buy back preferred shares at a preset price after a certain date.
 common_mistakes:
   - Confusing the priority of dividend payments, assuming common stock shareholders receive dividends before preferred stockholders.
   - Believing that common stock always offers higher dividends than preferred stock, when preferred stock typically has higher and more predictable dividends.

@@ -4,20 +4,30 @@ key_points:
   - Volume and liquidity are distinct but related concepts in stock trading.
   - Liquidity refers to the speed and ease with which an asset can be traded at its market price.
   - Lower trade volume indicates lower market interest and less frequent trading of a security.
+  - Bid-ask spread and order book depth are practical clues for liquidity.
+  - Average daily volume (ADV) helps compare how actively a stock trades across days.
   - Investors focus more on liquidity as it has clearer implications and is better understood.
   - Volume is often misunderstood and requires expert analysis for accurate interpretation.
 examples:
   - Securities with high liquidity can be quickly bought or sold without significant price changes.
   - Low volume securities are traded less frequently, indicating lower market interest.
+  - Two stocks can have similar volume, but the one with a tighter bid-ask spread is usually easier to trade.
 definitions:
   - term: Liquidity
     definition: The level of rapidity or swiftness with which an asset, financial commodity, or security can be either bought or sold in the market for its market price.
   - term: Volume
     definition: The number of shares or contracts traded in a security or commodity within a specific time period.
+  - term: Bid-Ask Spread
+    definition: The gap between the highest price a buyer will pay (bid) and the lowest price a seller will accept (ask).
+  - term: Average Daily Volume (ADV)
+    definition: The typical number of shares traded per day over a chosen period, used to gauge trading activity.
+  - term: Order Book
+    definition: A list of buy and sell orders at different prices that shows current market depth.
 common_mistakes:
   - Confusing volume with liquidity, leading to incorrect investment decisions.
   - Assuming that high volume always indicates high liquidity.
   - Misunderstanding the implications of low trade volume as a sign of poor performance rather than market interest.
+  - Using raw volume without considering bid-ask spread or market depth.
 questions_to_think:
   - How do liquidity and volume affect investment decisions?
   - What are the implications of low trade volume for an investor?

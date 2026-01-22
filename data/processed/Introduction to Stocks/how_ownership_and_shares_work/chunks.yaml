@@ -7,9 +7,12 @@ key_points:
   - Companies can issue, repurchase, or redeem shares, with authorized shares set by the board.
   - Publicly traded shares are regulated by the SEC, while private shares may be issued through stock options.
   - Fractional shares allow investors to purchase portions of a single share, making stock more accessible.
+  - Outstanding shares represent the shares currently held by investors and insiders.
+  - The share price and the number of shares together determine a company's market capitalization.
 examples:
   - A company authorizes 10 million shares but issues only 8 million.
   - An investor with $100 could buy 0.1 shares of a stock priced at $1,000 per share.
+  - A company buys back shares, reducing the number of shares outstanding and increasing each remaining shareholder's ownership percentage.
 definitions:
   - term: Shares
     definition: Units of ownership in a company, available as common or preferred, representing equity stakes.
@@ -19,6 +22,10 @@ definitions:
     definition: Shares with priority in distributions and set payment criteria, typically without voting rights.
   - term: Authorized Shares
     definition: The maximum number of shares a company can issue, determined by its board of directors.
+  - term: Outstanding Shares
+    definition: The total shares held by all shareholders, including insiders and institutions, excluding treasury shares.
+  - term: Market Capitalization
+    definition: The company's value as determined by stock price multiplied by the number of outstanding shares.
   - term: Fractional Shares
     definition: Portions of a single share, allowing investors to purchase a part of a stock based on their investment amount.
 common_mistakes:

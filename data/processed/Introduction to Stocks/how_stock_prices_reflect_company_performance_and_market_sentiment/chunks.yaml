@@ -5,9 +5,12 @@ key_points:
   - Fundamental factors include earnings, growth rates, and discounted present value of future earnings.
   - Technical factors involve market trends, liquidity, and external economic conditions.
   - News and market sentiment significantly impact stock prices, often overriding fundamental analysis in the short term.
+  - Supply and demand for shares can move prices even when company fundamentals are unchanged.
+  - Company guidance and analyst expectations can shift sentiment quickly.
 examples:
   - A retail stock's decline due to negative sentiment affecting the entire sector.
   - High liquidity in large-cap stocks versus the liquidity discount for small-cap stocks.
+  - A company beats earnings but falls because investors expected even higher growth.
 definitions:
   - term: Earnings Per Share (EPS)
     definition: The portion of a company's profit allocated to each outstanding share of common stock.
@@ -15,6 +18,12 @@ definitions:
     definition: The ratio of a company's stock price to its earnings per share, reflecting the price paid for future earnings.
   - term: Market Sentiment
     definition: The overall psychology of investors that can influence stock prices independently of fundamentals.
+  - term: Liquidity
+    definition: How easily a stock can be bought or sold without significantly affecting its price.
+  - term: Fundamentals
+    definition: Company performance factors such as revenue, earnings, growth, and balance sheet strength.
+  - term: Technical Analysis
+    definition: The study of price and volume patterns to evaluate market behavior and trends.
 common_mistakes:
   - Assuming that strong earnings always lead to stock price increases without considering market sentiment.
   - Ignoring liquidity differences between large-cap and small-cap stocks when evaluating stock performance.

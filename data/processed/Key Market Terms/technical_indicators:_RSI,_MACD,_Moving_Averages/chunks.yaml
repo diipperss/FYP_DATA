@@ -5,9 +5,12 @@ key_points:
   - RSI measures price changes relative to recent highs and lows, indicating overbought or oversold conditions.
   - MACD is calculated by subtracting the 26-period EMA from the 12-period EMA, with a nine-day EMA forming the signal line.
   - The RSI and MACD are both trend-following momentum indicators used together for a more comprehensive technical analysis.
+  - Moving averages smooth price data and are often used to identify trend direction.
+  - Indicators can lag price, so they are best used with other signals and risk controls.
 examples:
   - A scenario where RSI shows overbought conditions (above 70) while MACD indicates continued momentum.
   - A situation where price continues higher while the RSI turns lower, signaling potential trend reversal.
+  - A 50-day moving average crossing above the 200-day moving average is often viewed as a bullish trend signal.
 definitions:
   - term: MACD
     definition: A momentum indicator that measures the relationship between two exponential moving averages (EMAs), typically a 12-period and 26-period EMA. It includes a signal line derived from a nine-day EMA of the MACD line.
@@ -15,9 +18,18 @@ definitions:
     definition: A momentum indicator that gauges price changes relative to recent highs and lows, indicating overbought (above 70) or oversold (below 30) conditions.
   - term: Exponential Moving Average (EMA)
     definition: A type of moving average that gives more weight to recent prices, used in calculating indicators like MACD.
+  - term: Simple Moving Average (SMA)
+    definition: A moving average that gives equal weight to all prices in the lookback period.
+  - term: Crossover
+    definition: A signal that occurs when a shorter-term moving average crosses above or below a longer-term moving average.
+  - term: Divergence
+    definition: A situation where price moves in one direction while an indicator moves in the opposite direction, hinting at weakening momentum.
+  - term: Whipsaw
+    definition: A period of choppy price action that causes frequent false signals from indicators.
 common_mistakes:
   - Confusing the purpose of MACD and RSI, leading to conflicting trading signals.
   - Overreliance on a single indicator without considering how they interact.
+  - Treating RSI overbought or oversold levels as automatic buy or sell signals.
 questions_to_think:
   - How do MACD and RSI differ in their approach to measuring market momentum?
   - What are the limitations of using only one of these indicators for trading decisions?

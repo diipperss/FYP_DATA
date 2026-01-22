@@ -5,16 +5,23 @@ key_points:
   - They have voting rights on company matters and can be elected to the board of directors.
   - Shareholders may receive a portion of proceeds from company liquidation after creditors are paid.
   - They are not responsible for the company's debts.
+  - Shareholders can benefit from dividends and stock price increases.
+  - Voting power usually depends on how many shares a person owns.
 examples:
   - Common shareholders have voting rights and can initiate class-action lawsuits.
   - Preferred shareholders do not have voting rights but receive fixed dividends before common shareholders.
+  - A small shareholder can vote on major proposals but has limited influence compared to large investors.
 definitions:
   - term: Shareholder
     definition: A person, company, or organization that owns shares of stock in a company, granting them rights such as voting on company matters and receiving dividends.
   - term: Common Shareholder
     definition: A shareholder who owns common stock, granting them voting rights and the ability to initiate legal action against the company for wrongdoing.
   - term: Preferred Shareholder
-    - definition: A shareholder who owns preferred stock, which does not grant voting rights but entitles them to fixed dividends before common shareholders.
+    definition: A shareholder who owns preferred stock, which does not grant voting rights but entitles them to fixed dividends before common shareholders.
+  - term: Stakeholder
+    definition: A person or group affected by a company (employees, customers, suppliers) who may not own shares.
+  - term: Board of Directors
+    definition: A group elected by shareholders to oversee company strategy and management.
 common_mistakes:
   - Confusing shareholders with stakeholders, who may have an interest in the company but do not own shares.
   - Believing that shareholders are solely responsible for a company's debts, whereas they are not.

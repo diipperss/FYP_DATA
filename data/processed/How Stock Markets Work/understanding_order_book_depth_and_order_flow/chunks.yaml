@@ -6,15 +6,25 @@ key_points:
   - Key elements include bid and ask prices, order sizes, and order flow
   - Strategies like scalping, momentum trading, and reversal strategies are discussed
   - Risk management practices involve setting accurate stop-loss and take-profit levels
+  - Order book depth can change quickly around news events or market open/close
 examples:
   - Example 1: XYZ stock with significant buy orders at $99 and $100 indicating support
   - Example 2: ABC stock showing strong buying interest at $49 and $50 levels
   - Example 3: Scalping strategy using a temporary liquidity gap at $100.03
+  - A thin order book can cause large price moves from small orders
 definitions:
   - term: Order Book Depth
     definition: The measure of liquidity available at different price levels in the order book of a financial market
   - term: Order Flow
     definition: The movement and volume of buy and sell orders in the market
+  - term: Bid Price
+    definition: The highest price buyers are willing to pay for a stock at a given moment
+  - term: Ask Price
+    definition: The lowest price sellers are willing to accept for a stock at a given moment
+  - term: Support and Resistance
+    definition: Price levels where buying or selling pressure tends to slow or reverse a move
+  - term: Stop-Loss
+    definition: A price level where a trader exits to limit losses
 common_mistakes:
   - Misinterpreting order book imbalances as guaranteed price movements
   - Overlooking the significance of order sizes when analyzing liquidity

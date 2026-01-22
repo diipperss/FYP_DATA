@@ -6,9 +6,11 @@ key_points:
   - Bollinger Bands visually represent volatility through their width, with wider bands indicating higher volatility.
   - Maximum drawdown measures the largest historical loss from peak to trough, providing insight into risk exposure.
   - Beta compares a security's volatility to the broader market, with values above 1 indicating higher volatility.
+  - Average True Range (ATR) measures typical daily price movement, useful for position sizing and stop placement.
+  - Implied volatility reflects the market's expectations of future volatility based on option prices.
 examples:
   - A stock with high volatility may fluctuate significantly, hitting new highs and lows frequently.
-  - Bollinger Bands for the SPDR S&P 500 ETF Trust (SPY) show a range of $495 to $522 during a one-month period, with the price dipping below the lower band for a week.
+  - ATR often rises after major news or earnings, showing wider daily price swings.
 definitions:
   - term: Volatility
     definition: The degree to which a financial asset's price fluctuates over time.
@@ -20,10 +22,17 @@ definitions:
     definition: The largest peak-to-trough decline in the value of an investment over a specific period, indicating the maximum loss an investor could have experienced.
   - term: Beta
     definition: A measure of a security's volatility in relation to the broader market, with a beta of 1 indicating that the security's volatility is equal to the market's.
+  - term: Average True Range (ATR)
+    definition: A volatility indicator that measures the average daily price range over a set period.
+  - term: Implied Volatility
+    definition: The market's forecast of future volatility inferred from option prices.
+  - term: Historical (Realized) Volatility
+    definition: The actual past volatility of an asset calculated from its price movements.
 common_mistakes:
   - Confusing standard deviation with variance, which is the square of the standard deviation.
   - Misinterpreting Bollinger Bands as a definitive buy or sell signal rather than a volatility indicator.
   - Overlooking the importance of maximum drawdown in assessing long-term risk, focusing solely on short-term volatility.
+  - Comparing implied volatility to historical volatility without considering upcoming events.
 questions_to_think:
   - How does standard deviation differ from variance in measuring volatility?
   - What factors might cause Bollinger Bands to widen or narrow?

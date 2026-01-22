@@ -8,12 +8,14 @@ key_points:
   - R-squared indicates the correlation between an investment and its benchmark.
   - Standard deviation measures the dispersion of returns around the mean, reflecting volatility.
   - The Sharpe ratio evaluates risk-adjusted returns by comparing excess return to volatility.
+  - VaR (Value at Risk) estimates the potential loss over a time period at a given confidence level.
 examples:
   - A fund with a positive alpha outperforms its benchmark index.
   - A stock with a high beta is more volatile than the market.
   - An R-squared of 95 suggests a strong correlation with the benchmark.
   - A higher standard deviation indicates greater volatility.
   - A higher Sharpe ratio implies better risk-adjusted performance.
+  - A daily VaR of $1,000 at 95% confidence suggests losses should not exceed $1,000 on 95% of days.
 definitions:
   - term: Alpha
     definition: A measure of an investment's performance relative to a benchmark index, indicating whether it outperforms or underperforms.
@@ -25,6 +27,12 @@ definitions:
     definition: A statistical measure of the dispersion of returns around the mean, indicating the level of volatility.
   - term: Sharpe Ratio
     definition: A risk-adjusted performance measure that calculates the excess return per unit of risk, comparing the return of an investment to the risk-free rate.
+  - term: Value at Risk (VaR)
+    definition: An estimate of the maximum expected loss over a given time period at a specified confidence level.
+  - term: Benchmark
+    definition: A reference index used to evaluate an investment's performance.
+  - term: Risk-Free Rate
+    definition: The return on an investment with minimal risk, often approximated by short-term government securities.
 common_mistakes:
   - Confusing beta with R-squared, as both relate to market correlation but measure different aspects.
   - Using standard deviation without considering the time period, leading to inaccurate volatility assessments.

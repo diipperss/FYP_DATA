@@ -6,14 +6,22 @@ key_points:
   - A high dividend yield may indicate either a high dividend or a low stock price, but it can also signal financial distress if the stock is declining rapidly.
   - Dividend yield can be calculated using trailing 12 months of dividends or the last full year's financial report.
   - Companies that consistently pay and increase dividends are often seen as financially stable.
+  - Dividend yield changes when the stock price changes, even if the dividend stays the same.
 examples:
   - Example 1: If a company pays $2 per share in annual dividends and its stock price is $40, the dividend yield would be 5%.
   - Example 2: A stock with a high dividend yield might be a REIT, MLP, or BDC due to their pass-through taxation structure.
+  - Example 3: A stock price drop from $50 to $40 raises yield from 4% to 5% if the dividend stays $2.
 definitions:
   - term: Dividend Yield
     definition: A financial ratio that indicates the annual dividends a company pays relative to its stock price, calculated by dividing the annual dividends per share by the price per share.
   - term: Dividend Payout Ratio
     definition: The ratio of a company's annual dividends to its net income, representing the proportion of earnings distributed to shareholders.
+  - term: REIT
+    definition: A Real Estate Investment Trust that often pays high dividends due to legal payout requirements.
+  - term: MLP
+    definition: A Master Limited Partnership, often in energy, that distributes most of its cash flow to investors.
+  - term: BDC
+    definition: A Business Development Company that invests in smaller firms and typically pays higher dividends.
 common_mistakes:
   - Confusing dividend yield with dividend payout ratio.
   - Assuming a high dividend yield always indicates a good investment without considering the company's financial health.
