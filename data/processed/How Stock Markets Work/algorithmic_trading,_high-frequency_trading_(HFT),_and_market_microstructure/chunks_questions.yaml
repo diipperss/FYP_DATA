@@ -1,0 +1,29 @@
+- What is the role of HFT in market microstructure?
+
+```yaml
+questions:
+  - type: fill_blank_mcq
+    question: A ___ order is executed immediately at the best available price.
+    options: [limit, market, stop, iceberg]
+    answer: market
+  - type: drag_drop
+    question: Match the trading term to its definition.
+    drag_drop:
+      prompt: Drag the term to the correct definition.
+      pairs:
+        - left: Limit Order
+          right: Specifies a desired price for execution.
+        - left: Market Order
+          right: Executed at the best available price.
+        - left: LOB
+          right: Contains all active limit orders.
+    answer: Limit Order - Specifies a desired price for execution., Market Order - Executed at the best available price., LOB - Contains all active limit orders.
+  - type: case_study_mcq
+    scenario: "A trader places a market order to buy 100 shares of a small company. The company's stock has low trading volume, meaning it is relatively illiquid. What is likely to happen?"
+    question: "What is likely to happen when a trader places a market order for a stock with low trading volume?"
+    options: [A. The order will be filled instantly at a very low price., B. The order will be filled quickly at the current market price., C. The trader may need to 'walk the book' and the price may be higher than expected., D. The order will be canceled automatically.]
+    answer: C
+  - type: true_false
+    question: "High-frequency trading always benefits all investors."
+    answer: false
+```

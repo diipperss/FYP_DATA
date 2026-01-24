@@ -1,0 +1,91 @@
+by_level:
+  beginner: |-
+    - What is the role of HFT in market microstructure?
+    
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: I want to buy a ____ apple.
+        options: [red, blue, green, purple]
+        answer: red
+      - type: drag_drop
+        question: Match the colors to their names.
+        drag_drop:
+          prompt: Drag the color to the correct name.
+          pairs:
+            - left: red
+              right: rojo
+            - left: blue
+              right: azul
+            - left: green
+              right: verde
+        answer: red-rojo, blue-azul, green-verde
+      - type: case_study_mcq
+        scenario: "Maria wants to buy shares of a company, but she doesn't want to pay more than $50 per share. She places an order to buy the shares at that price. What type of order did Maria place?"
+        question: "What type of order did Maria place?"
+        options: [Market Order, Limit Order, Stop Order, Good-Til-Canceled Order]
+        answer: Limit Order
+      - type: true_false
+        question: "High-frequency trading always makes the market better for everyone."
+        answer: false
+    ```
+  intermediate: |-
+    - How does the speed of HFT relate to the challenges and opportunities in market microstructure?
+    
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: High-frequency trading (HFT) uses very fast systems to place and cancel orders in ___ or microseconds.
+        options: [milliseconds, hours, days, weeks]
+        answer: milliseconds
+      - type: drag_drop
+        question: Match the order type to its definition.
+        drag_drop:
+          prompt: Drag the order type to the correct definition.
+          pairs:
+            - left: Market Order (MO)
+              right: Executed immediately at the best available price.
+            - left: Limit Order (LO)
+              right: Specifies a desired price for execution.
+            - left: Stop Order
+              right: Triggered when a specific price is reached.
+        answer: Market Order (MO) - Executed immediately at the best available price., Limit Order (LO) - Specifies a desired price for execution., Stop Order - Triggered when a specific price is reached.
+      - type: case_study_mcq
+        scenario: An electronic stock market has low liquidity, meaning there are not many limit orders available. A trader places a market order to buy 100 shares.
+        question: What is most likely to happen when executing the market order in this situation?
+        options: [The order will be filled instantly at a very low price, The order will be filled immediately at the best available price, The trader might need to "walk the book" and experience a worse average price, The order will remain unfulfilled until liquidity improves.]
+        answer: The trader might need to "walk the book" and experience a worse average price
+      - type: true_false
+        question: According to the article, traditional open outcry exchanges still dominate modern stock markets.
+        answer: false
+    ```
+  advanced: |-
+    - What is the role of High-Frequency Trading in market microstructure?
+    
+    ```yaml
+    questions:
+      - type: fill_blank_mcq
+        question: The _________ contains all active limit orders and is crucial for understanding market dynamics.
+        options: [Order Flow, Limit Order Book, Market Depth, Trading Volume]
+        answer: Limit Order Book
+      - type: drag_drop
+        question: Match the order type with its characteristics.
+        drag_drop:
+          prompt: Drag the order type to its description.
+          pairs:
+            - left: Market Order (MO)
+              right: Executed immediately at the best available price.
+            - left: Limit Order (LO)
+              right: Specifies a desired price for execution.
+            - left: Stop Order
+              right: Triggered when a specific price is reached.
+        answer: Market Order (MO) - Executed immediately at the best available price., Limit Order (LO) - Specifies a desired price for execution., Stop Order - Triggered when a specific price is reached.
+      - type: case_study_mcq
+        scenario: A trader places a market order to buy 100 shares of a thinly traded stock. Due to the lack of liquidity, the order needs to “walk the book,” executing at several prices along the way.
+        question: What is the most likely outcome for the trader in this scenario?
+        options: [A. They will receive the shares at a price slightly better than the best bid., B. They will receive the shares at the best available price immediately., C. They will likely receive the shares at a worse average price than if the stock were more liquid., D. The order will automatically be cancelled due to illiquidity.]
+        answer: C
+      - type: true_false
+        question: High-frequency trading involves placing and cancelling orders in milliseconds or microseconds.
+        answer: true
+    ```
