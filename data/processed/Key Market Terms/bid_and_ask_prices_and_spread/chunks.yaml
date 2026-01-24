@@ -1,32 +1,42 @@
 title: Bid Ask Spread: How It Works and Why It Matters
-summary: The bid-ask spread is the difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept. It represents the cost of trading, with narrower spreads indicating higher liquidity and wider spreads indicating lower liquidity. This article explains how bid and ask prices are determined, their impact on trading, and factors that influence the spread.
+summary: The bid-ask spread represents the gap between what buyers are willing to pay and what sellers are willing to accept for a security. It is a direct trading cost and a key indicator of liquidity. This lesson explains how bid and ask prices are set, why spreads vary across securities, and how understanding the bid-ask spread can help investors trade more efficiently and reduce hidden costs.
 key_points:
-  - Bid and ask prices represent the highest price a buyer is willing to pay and the lowest price a seller is willing to accept.
-  - The bid-ask spread is the difference between these two prices and reflects the cost of trading.
-  - More liquid markets have tighter bid-ask spreads, while volatile or illiquid markets have wider spreads.
-  - Market makers set bid and ask prices, profiting from the spread.
-  - The spread indicates a security's liquidity, with tighter spreads meaning higher liquidity.
-  - A wider spread can make it harder for short-term traders to profit.
+  - The bid price reflects demand, while the ask price reflects supply.
+  - The bid-ask spread represents an implicit transaction cost paid by traders.
+  - Highly liquid securities typically have narrow spreads.
+  - Illiquid or volatile securities tend to have wider spreads.
+  - Market makers facilitate trading by continuously quoting bid and ask prices.
+  - The spread compensates market makers for providing liquidity and bearing risk.
+  - Wider spreads disproportionately affect short-term traders and frequent trading strategies.
 examples:
-  - Blue-chip companies like those in the Dow Jones may have a bid-ask spread of just a few cents.
-  - Small-cap stocks trading less than 10,000 shares daily might have spreads of $0.50 or more.
-  - If the bid is $9.95 and the ask is $10.05, the spread is $0.10.
+  - Liquidity example:
+        A large-cap stock trades with a bid of $50.00 and an ask of $50.02.
+        The narrow $0.02 spread indicates high liquidity and low trading costs.
+  - Illiquidity example:
+        A small-cap stock trades with a bid of $9.50 and an ask of $10.10.
+        The wide spread increases trading costs and makes entering or exiting positions more expensive.
+  - ETF example:
+        A popular index ETF trades with a consistently tight spread during market hours.
+        Investors can buy or sell efficiently without sacrificing much value to transaction costs.
 definitions:
   - term: Bid
     definition: The highest price a buyer is willing to pay for a security.
   - term: Ask
     definition: The lowest price a seller is willing to accept for a security.
   - term: Bid-Ask Spread
-    definition: The difference between the bid and ask prices, representing the cost of trading.
+    definition: The difference between the bid and ask prices, representing the cost of immediacy in trading.
   - term: Liquidity
-    definition: The ease of buying or selling an asset without significantly moving its price.
+    definition: The ability to buy or sell an asset quickly without significantly affecting its price.
   - term: Market Maker
-    definition: A firm or trader that provides continuous bid and ask quotes to keep a market active.
+    definition: A participant that provides liquidity by quoting continuous bid and ask prices.
 common_mistakes:
-  - Confusing bid and ask prices, leading to incorrect trading decisions.
-  - Ignoring the spread as a cost of trading, which can reduce overall returns.
+  - Buying at the ask or selling at the bid without recognizing the spread as a cost.
+  - Ignoring spreads when trading less-liquid stocks or ETFs.
+  - Assuming spreads are constant throughout the trading day.
+  - Overtrading in wide-spread securities, reducing net returns.
 questions_to_think:
-  - How does the bid-ask spread affect the cost of trading for retail investors?
-  - What factors contribute to wider bid-ask spreads in certain markets?
-  - How do market makers profit from the bid-ask spread?
+  - How does liquidity influence the bid-ask spread?
+  - Why are spreads typically wider during market open and close?
+  - How do bid-ask spreads affect long-term investors versus day traders?
+  - What role do market makers play in reducing spreads?
 source: https://www.investopedia.com/terms/b/bid-and-ask.asp

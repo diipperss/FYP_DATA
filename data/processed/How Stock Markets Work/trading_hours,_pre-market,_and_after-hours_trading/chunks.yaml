@@ -1,33 +1,42 @@
 title: How Stock Markets Work
-summary: This article explains the typical trading hours of U.S. stock markets, including pre-market and after-hours trading, and discusses how extended trading hours have impacted stock prices and liquidity.
+summary: >
+  This lesson explains how stock markets operate across regular trading hours,
+  pre-market, after-hours, and overnight sessions. It highlights how liquidity,
+  spreads, and execution risks differ outside normal hours and what investors
+  should consider when trading during these periods.
 key_points:
-  - U.S. stock markets typically open at 9:30 a.m. and close at 4:00 p.m. ET on weekdays.
-  - Pre-market trading occurs from 6:30 a.m. to 9:30 a.m. ET, while after-hours trading runs from 4:00 p.m. to 8:00 p.m. ET.
-  - Electronic communication networks handle trades during extended hours, not the exchanges themselves.
-  - Pre-market and after-hours trading are limited to limit orders due to lower liquidity.
-  - Overnight trading allows for trading outside of pre-market and after-hours, with some brokers offering this feature.
-  - Spreads are often wider and price moves can be sharper outside regular hours.
+  - Studying this helps investors avoid unexpected price moves and poor execution. It also explains why prices may differ significantly between sessions. Allows investors to make informed decisions about timing and order type.
+  - Regular trading hours concentrate most liquidity and volume.
+  - Pre-market and after-hours trading occur via electronic communication networks (ECNs).
+  - Extended hours trading typically allows only limit orders due to lower liquidity.
+  - Price volatility and wider spreads are more common outside regular sessions.
+  - Overnight trading is broker-dependent and varies by market.
 examples:
-  - Schwab allows limit orders during specific pre-market and after-hours windows.
-  - Interactive Brokers and Robinhood offer overnight trading facilities.
-  - A stock can jump after earnings released after 4:00 p.m. ET, leading to a different opening price the next day.
+  - Earnings release example:
+        A company releases earnings after market close, causing its stock to spike in after-hours trading.
+        Early traders may capture price moves, but face higher risk due to thin liquidity.
+  - Liquidity example:
+        A limit order placed during pre-market hours fills only partially due to limited participation.
+        Highlights the trade-off between early access and execution certainty.
+why_study_this:
+  - Helps investors avoid unexpected price moves and poor execution.
+  - Explains why prices may differ significantly between sessions.
+  - Supports informed decisions about timing and order type.
 definitions:
-  - term: pre-market trading
-    definition: Trading activity that occurs before the official opening of the stock market, typically between 6:30 a.m. and 9:30 a.m. ET.
-  - term: after-hours trading
-    definition: Trading activity that occurs after the official closing of the stock market, typically between 4:00 p.m. and 8:00 p.m. ET.
-  - term: electronic communication networks (ECNs)
-    definition: Digital platforms that facilitate trades during extended hours when traditional exchanges are closed.
+  - term: Pre-market Trading
+    definition: Trading before regular market hours.
+  - term: After-hours Trading
+    definition: Trading after regular market hours.
+  - term: ECNs
+    definition: Electronic platforms enabling extended-hours trading.
   - term: Liquidity
-    definition: How easily a stock can be bought or sold without significantly affecting its price.
+    definition: The ease of trading without moving prices significantly.
   - term: Spread
-    definition: The difference between the bid and ask prices, often wider in extended hours.
+    definition: The difference between bid and ask prices.
 common_mistakes:
-  - Confusing pre-market and after-hours trading with regular trading hours.
-  - Assuming that all brokers offer the same extended trading options.
-  - Believing that stock prices during extended hours are always accurate or reflective of market conditions.
+  - Assuming extended hours prices reflect full market consensus.
+  - Ignoring liquidity risks outside regular trading sessions.
 questions_to_think:
-  - What are the differences between pre-market and after-hours trading?
-  - How do extended trading hours affect stock prices and liquidity?
-  - Which brokers offer overnight trading, and what are their specific hours?
+  - When might extended hours trading be appropriate?
+  - How do spreads affect execution during low-liquidity periods?
 source: https://www.investopedia.com/ask/answers/06/preaftermarket.asp

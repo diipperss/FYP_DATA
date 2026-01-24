@@ -1,31 +1,37 @@
-title: Shareholder
-summary: A shareholder, also known as a stockholder, is an individual, company, or organization that owns shares of stock in a company. They have the right to vote on company matters and can be elected to the board of directors. Shareholders may receive a portion of proceeds from company liquidation after creditors are paid, and they are not responsible for the company's debts.
+title: Understanding Shareholders and Their Rights in a Company
+summary: Shareholders own a company through shares, entitling them to financial benefits, voting rights, and limited liability. This lesson links share ownership to control, dividends, and liquidation outcomes, while clarifying differences between common and preferred shareholders and explaining shareholder responsibilities and protections.
 key_points:
-  - Shareholders own shares of stock in a company.
-  - They have voting rights on company matters and can be elected to the board of directors.
-  - Shareholders may receive a portion of proceeds from company liquidation after creditors are paid.
-  - They are not responsible for the company's debts.
-  - Shareholders can benefit from dividends and stock price increases.
-  - Voting power usually depends on how many shares a person owns.
+  - Shareholders own a portion of a company through shares and have potential financial returns.
+  - Voting rights allow influence over major decisions, such as board elections and mergers.
+  - Shareholders can benefit from dividends and stock price appreciation.
+  - In liquidation, shareholders receive remaining assets after creditors are paid.
+  - Limited liability protects shareholders from personal responsibility for company debts.
+  - Voting power typically increases with the number of shares held.
 examples:
-  - Common shareholders have voting rights and can initiate class-action lawsuits.
-  - Preferred shareholders do not have voting rights but receive fixed dividends before common shareholders.
-  - A small shareholder can vote on major proposals but has limited influence compared to large investors.
+  - Common shareholder rights example:
+        A common shareholder can vote on board elections, mergers, or other key corporate actions and may participate in class-action suits if the company engages in wrongdoing.
+        Voting provides influence over company governance; returns are tied to dividends and stock appreciation.
+  - Preferred shareholder priority example:
+        A preferred shareholder receives a fixed dividend before common shareholders and may have priority in liquidation, but usually cannot vote on company matters.
+        Provides steady income and reduced risk in liquidation but limited control over corporate decisions.
+  - Voting influence example:
+        An individual investor with a small number of shares has minimal voting influence, whereas a large institutional investor can significantly sway outcomes.
+        Understanding voting influence helps investors gauge control and impact in shareholder meetings.
 definitions:
   - term: Shareholder
-    definition: A person, company, or organization that owns shares of stock in a company, granting them rights such as voting on company matters and receiving dividends.
+    definition: An individual, company, or organization owning shares in a company, granting rights to vote and receive dividends.
   - term: Common Shareholder
-    definition: A shareholder who owns common stock, granting them voting rights and the ability to initiate legal action against the company for wrongdoing.
+    definition: A shareholder holding common stock, generally with voting rights and residual claims on profits and assets.
   - term: Preferred Shareholder
-    definition: A shareholder who owns preferred stock, which does not grant voting rights but entitles them to fixed dividends before common shareholders.
+    definition: A shareholder holding preferred stock, typically without voting rights but with priority in dividends and liquidation.
   - term: Stakeholder
-    definition: A person or group affected by a company (employees, customers, suppliers) who may not own shares.
+    definition: Anyone affected by a company’s actions, including employees, customers, or suppliers, who may not own shares.
   - term: Board of Directors
-    definition: A group elected by shareholders to oversee company strategy and management.
+    definition: Elected individuals overseeing company strategy, governance, and management on behalf of shareholders.
 common_mistakes:
-  - Confusing shareholders with stakeholders, who may have an interest in the company but do not own shares.
-  - Believing that shareholders are solely responsible for a company's debts, whereas they are not.
+  - Confusing shareholders with stakeholders.
+  - Assuming shareholders are personally liable for company debts.
 questions_to_think:
-  - What are the differences between common and preferred shareholders?
-  - How do shareholders differ from stakeholders?
+  - How do the rights and risks of common shareholders differ from those of preferred shareholders?
+  - Why might a company issue both common and preferred shares?
 source: https://corporatefinanceinstitute.com/resources/equities/shareholder/

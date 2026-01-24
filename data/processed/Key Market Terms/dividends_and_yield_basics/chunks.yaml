@@ -1,33 +1,41 @@
 title: Dividend Yield: What It Is and How to Calculate It
-summary: Dividend yield is a financial metric that shows the annual dividend payment relative to a stock's market price. It helps investors understand the return on investment from dividends alone, and its calculation involves dividing the annual dividends per share by the price per share. Understanding this ratio is crucial for evaluating a company's financial health and potential for growth.
+summary: Dividend yield measures the income an investor receives from dividends relative to a stock’s market price. It is a key metric for income-focused investors and provides insight into a company’s dividend policy, stability, and valuation. This lesson explains how dividend yield is calculated, what influences it, and how to interpret it alongside other financial ratios.
 key_points:
-  - Dividend yield measures a company's annual dividends relative to its stock price.
-  - It is calculated by dividing annual dividends per share by the price per share.
-  - A high dividend yield may indicate either a high dividend or a low stock price, but it can also signal financial distress if the stock is declining rapidly.
-  - Dividend yield can be calculated using trailing 12 months of dividends or the last full year's financial report.
-  - Companies that consistently pay and increase dividends are often seen as financially stable.
-  - Dividend yield changes when the stock price changes, even if the dividend stays the same.
+  - Dividend yield shows the cash income return from dividends alone.
+  - It is calculated as annual dividends per share divided by the current share price.
+  - Dividend yield changes as the stock price fluctuates, even if dividends remain constant.
+  - A high dividend yield can signal strong income or potential financial stress.
+  - Stable and growing dividends often indicate mature, financially healthy companies.
+  - Dividend yield should be analyzed together with payout ratio and earnings sustainability.
 examples:
-  - Example 1: If a company pays $2 per share in annual dividends and its stock price is $40, the dividend yield would be 5%.
-  - Example 2: A stock with a high dividend yield might be a REIT, MLP, or BDC due to their pass-through taxation structure.
-  - Example 3: A stock price drop from $50 to $40 raises yield from 4% to 5% if the dividend stays $2.
+  - Basic calculation example:
+        A company pays $2 per share annually and trades at $40 per share.
+        The dividend yield is 5%, providing a clear measure of income return.
+  - Price movement example:
+        A stock’s price falls from $50 to $40 while the dividend remains $2.
+        The yield rises from 4% to 5%, which may reflect higher risk rather than improved fundamentals.
+  - Sector example:
+        REITs and utilities often show higher dividend yields than technology firms.
+        These sectors may appeal more to income-focused investors than growth-oriented ones.
 definitions:
   - term: Dividend Yield
-    definition: A financial ratio that indicates the annual dividends a company pays relative to its stock price, calculated by dividing the annual dividends per share by the price per share.
+    definition: A financial ratio showing annual dividend income relative to a stock’s current price.
   - term: Dividend Payout Ratio
-    definition: The ratio of a company's annual dividends to its net income, representing the proportion of earnings distributed to shareholders.
+    definition: The proportion of earnings paid out as dividends.
   - term: REIT
-    definition: A Real Estate Investment Trust that often pays high dividends due to legal payout requirements.
+    definition: A Real Estate Investment Trust required to distribute most of its taxable income as dividends.
   - term: MLP
-    definition: A Master Limited Partnership, often in energy, that distributes most of its cash flow to investors.
+    definition: A Master Limited Partnership that distributes the majority of its cash flow to investors.
   - term: BDC
-    definition: A Business Development Company that invests in smaller firms and typically pays higher dividends.
+    definition: A Business Development Company that provides financing to small and mid-sized firms and typically pays high dividends.
 common_mistakes:
-  - Confusing dividend yield with dividend payout ratio.
-  - Assuming a high dividend yield always indicates a good investment without considering the company's financial health.
-  - Using outdated dividend data or not accounting for recent changes in dividend amounts.
+  - Assuming the highest dividend yield always represents the best investment.
+  - Ignoring dividend sustainability and cash flow coverage.
+  - Confusing dividend yield with total return.
+  - Using outdated dividend figures in calculations.
 questions_to_think:
-  - How does a change in stock price affect the dividend yield?
-  - What factors might cause a company to reduce or eliminate its dividend?
-  - Why is it important to consider the dividend payout ratio alongside the dividend yield?
+  - Why can a rising dividend yield sometimes be a warning sign?
+  - How does dividend yield complement capital gains in total return?
+  - Why should investors consider payout ratios alongside dividend yield?
+  - How do interest rate changes affect dividend-paying stocks?
 source: https://www.investopedia.com/terms/d/dividendyield.asp

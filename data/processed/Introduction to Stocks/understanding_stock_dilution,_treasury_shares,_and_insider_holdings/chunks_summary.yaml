@@ -1,36 +1,59 @@
-(You can use any YAML parser if needed)
+title: Understanding the iShares Core Equity ETF and Its Investment Structure
+summary: The iShares Core Equity ETF Portfolio is a passive investment fund that tracks the S&P/TSX 60 Index, representing Canada’s largest publicly traded companies. This lesson explains how the ETF provides diversification, low costs, and tax efficiency, while showing why understanding ETFs is important for building efficient portfolios and gaining broad market exposure without managing individual stocks.
+key_points:
+  - ETFs like iShares demonstrate how investors can efficiently gain diversified market exposure without owning individual stocks, making portfolio construction simpler and less risky.
+  - Understanding passive strategies helps investors appreciate the trade-offs between cost, risk, and potential return compared to actively managed funds.
+  - Knowledge of ETFs, diversification, and low-cost investing is essential for long-term wealth accumulation, especially for beginners and those building retirement portfolios.
+  - iShares is BlackRock’s brand of ETFs, offering investors access to diversified markets, sectors, or investment strategies through a single security.
+  - The iShares Core Equity ETF Portfolio tracks the S&P/TSX 60 Index, containing 60 of the largest and most liquid Canadian companies.
+  - The ETF uses a passive investment strategy, aiming to replicate index performance instead of trying to outperform the market.
+  - Holding many companies in one fund provides built-in diversification, reducing company-specific risk.
+  - Low management expense ratios (MERs) reduce costs, which compounds into higher long-term returns.
+  - ETFs are structured to be tax-efficient, minimizing taxes on capital gains or distributions compared to many mutual funds.
+  - ETFs trade like individual stocks, offering liquidity and the ability to enter or exit positions quickly.
+  - Understanding ETFs is important because they allow investors to:
+      - Gain broad market exposure efficiently.
+      - Reduce reliance on selecting individual stocks.
+      - Manage risk and cost effectively.
+examples:
+  - Diversification example:
+        Instead of buying shares of multiple banks, energy firms, and telecom companies individually, 
+        an investor can purchase the iShares Core Equity ETF to gain exposure to all 60 companies in the S&P/TSX 60 Index at once.
+        Simplifies portfolio management, reduces company-specific risk, and ensures investors participate in overall market performance rather than being overly dependent on a few stocks.
+  - Cost efficiency example:
+        Compared with actively managed mutual funds that charge higher fees and multiple trading commissions, 
+        the ETF charges a single low MER, keeping costs minimal over time.
+        Low fees allow a greater portion of investment returns to compound over the long term, improving net wealth accumulation.
+  - Passive strategy example:
+        The ETF automatically adjusts holdings as the S&P/TSX 60 Index changes, buying or selling shares to match the index weights without active management.
+        Investors don’t need to monitor or adjust holdings manually, yet they still capture the performance of large-cap Canadian companies.
+  - Liquidity example:
+        Shares of the ETF can be bought or sold anytime during market hours, similar to a single stock.
+        Provides flexibility for portfolio adjustments or accessing cash quickly without disrupting investment strategy.
+definitions:
+  - term: iShares
+    definition: BlackRock’s brand of exchange-traded funds (ETFs), designed to provide investors with diversified exposure to broad markets, sectors, or investment strategies.
+  - term: Equity ETF
+    definition: An exchange-traded fund that invests primarily in stocks and trades on an exchange like a single stock.
+  - term: Passive Investment Strategy
+    definition: An investment approach that seeks to replicate the performance of a market index rather than attempting to outperform it through active management.
+  - term: S&P/TSX 60 Index
+    definition: A Canadian stock market index representing 60 of the largest and most liquid publicly traded companies in Canada.
+  - term: Management Expense Ratio (MER)
+    definition: The annual fee charged by a fund to cover operating and management costs, expressed as a percentage of assets.
+  - term: Diversification
+    definition: The practice of spreading investments across multiple assets or companies to reduce company-specific risk.
 
----
+common_mistakes:
+  - Confusing a passive ETF with an actively managed fund and expecting it to outperform the market.
+  - Underestimating how low fees can significantly impact long-term investment returns.
+  - Assuming diversification eliminates risk entirely, rather than reducing company-specific risk.
+  - Thinking ETFs are only for large investors; even small investors can gain exposure through fractional shares in some cases.
 
-**Lesson: "Understanding iShares Core Equity ETF Portfolio"**
+questions_to_think:
+  - How does tracking the S&P/TSX 60 Index help the ETF achieve diversification?
+  - Why might a long-term investor prefer a low-cost passive ETF over an actively managed fund?
+  - How does the structure of ETFs like iShares make it easier to access broad markets without buying individual stocks?
+  - How can understanding ETFs improve portfolio construction and risk management?
 
-**title:** Understanding iShares Core Equity ETF Portfolio
-
-**summary:** The iShares Core Equity ETF Portfolio is a fund that tracks the performance of the S&P/TSX 60 Index, a stock market index that represents the 60 largest publicly traded companies in Canada. This lesson will explore the key characteristics of the ETF, including its passive investment strategy, diversification, low fees, and tax-efficiency.
-
-**key_points:**
-
-* The ETF is designed to track the performance of the S&P/TSX 60 Index.
-* The ETF has a passive investment strategy, seeking to track the index rather than trying to beat it.
-* The portfolio is designed to provide diversification by tracking the performance of a broad range of Canadian companies.
-* The ETF has a low management expense ratio (MER), which means that investors pay lower fees to own the fund.
-* The ETF is designed to be tax-efficient, seeking to minimize the impact of taxes on investor returns.
-
-**examples:**
-
-* Example 1: Suppose an investor owns a portfolio of individual Canadian stocks. The iShares Core Equity ETF Portfolio could provide a similar diversification benefit, but with the convenience of a single ETF.
-
-**definitions:**
-
-* **Equity ETF**: A type of exchange-traded fund that invests in stocks.
-* **Passive investment strategy**: An investment approach that seeks to track the performance of a market index, rather than trying to beat it through active management.
-
-**common_mistakes:**
-
-* Mistake 1: Confusing the ETF's objective with that of an actively managed fund, which seeks to beat the market.
-
-**questions_to_think:**
-
-* Question 1: How does the iShares Core Equity ETF Portfolio achieve its diversification benefit?
-
-**source:** Various sources, including the iShares website and financial news articles.
+source: Various sources, including the iShares website and financial news articles

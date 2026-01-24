@@ -1,14 +1,22 @@
 title: Market Capitalization and Calculation
-summary: Market capitalization, or market cap, is the total value of a company's outstanding shares, calculated by multiplying the share price by the number of shares. It categorizes companies into sizes like small-cap, mid-cap, and large-cap, influencing investment decisions and risk assessments.
+summary: Market capitalization, or market cap, represents the total market value of a company’s equity and is one of the most widely used measures of company size. It helps investors classify companies, assess risk profiles, and align investments with growth or stability objectives. This lesson explains how market cap is calculated, how it changes, and why it differs from other valuation measures.
 key_points:
-  - Market cap is calculated by multiplying the price per share by the number of shares outstanding.
-  - Companies are categorized by market cap into sizes such as mega-cap, large-cap, mid-cap, small-cap, and nano-cap.
-  - Market cap helps investors assess a company's size, market value, and potential risks and growth opportunities.
-  - Market cap changes when share price moves or the share count changes (buybacks or new issuance).
-  - Market cap is not the same as company value because debt and cash are excluded.
+  - Market cap is calculated as share price multiplied by shares outstanding.
+  - It categorizes companies into size groups such as mega-cap, large-cap, mid-cap, small-cap, and nano-cap.
+  - Market cap helps investors compare companies and construct diversified portfolios.
+  - Changes in share price or share count directly affect market cap.
+  - Market cap measures equity value only and does not include debt or cash.
+  - Investors often use market cap to infer risk, growth potential, and volatility.
 examples:
-  - A stock trading at $10 with 1 million shares has a market cap of $10 million.
-  - If a company issues more shares, its market cap can rise even if the share price stays the same.
+  - Basic calculation example:
+        A company with 1 million shares outstanding trading at $10 per share.
+        The market cap is $10 million, classifying it as a small-cap company.
+  - Share issuance example:
+        A company issues additional shares while its stock price remains unchanged.
+        Market cap increases even though individual share value does not.
+  - Comparison example:
+        Two companies have the same stock price, but one has ten times more shares outstanding.
+        The company with more shares has a much larger market cap and is typically less volatile.
 definitions:
   - term: Market Capitalization
     definition: The total market value of a company's outstanding shares of stock, calculated by multiplying the current price of one share by the number of shares available.
@@ -21,7 +29,9 @@ definitions:
 common_mistakes:
   - Judging a company's size solely by its stock price rather than considering market cap.
   - Treating market cap as the same as enterprise value or total business value.
+  - Ignoring dilution effects from share issuance.
 questions_to_think:
   - How does market capitalization influence investment strategies?
   - Why is it important to consider market cap when evaluating a company's risk and growth potential?
+  - When is enterprise value more informative than market cap?
 source: https://www.investopedia.com/investing/market-capitalization-defined/

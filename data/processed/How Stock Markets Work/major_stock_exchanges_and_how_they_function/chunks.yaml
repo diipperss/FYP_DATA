@@ -1,17 +1,28 @@
 title: What Are Stock Exchanges?
-summary: Stock exchanges are organized marketplaces where shares of ownership in companies are traded between buyers and sellers. They play a crucial role in the global economy by enabling businesses to raise capital and investors to trade securities. This article explores how stock exchanges operate, their impact on investors and the economy, and the various types of exchanges such as auction, dealer, electronic, and over-the-counter markets.
+summary: >
+  This lesson introduces stock exchanges as the core infrastructure of financial markets.
+  It explains how exchanges enable capital formation, facilitate trading, and support price discovery,
+  while distinguishing between primary and secondary markets and different exchange structures.
 key_points:
-  - Stock exchanges are organized marketplaces for trading company shares.
-  - They provide a centralized location for businesses to raise capital and investors to trade securities.
-  - Modern exchanges are sophisticated and often digital, supporting high-volume trading.
-  - Key concepts include IPOs, market indices, and primary vs. secondary markets.
-  - The NYSE and Nasdaq are the two largest exchanges by market capitalization.
-  - Primary markets are where companies sell new shares, while secondary markets are where investors trade existing shares.
+  - Stock exchanges form the backbone of modern investing.
+  - Understanding exchange mechanics improves trade execution and cost awareness.
+  - Knowledge of market structure helps investors interpret price movements and liquidity conditions.
+  - Stock exchanges are organized marketplaces where securities are traded.
+  - Companies use exchanges to raise capital through public listings.
+  - Investors trade existing shares in secondary markets.
+  - Modern exchanges rely on electronic systems to enable fast, high-volume trading.
+  - Market makers and auction mechanisms help ensure liquidity and efficient pricing.
+  - Different exchange models serve companies of varying sizes and regulatory requirements.
 examples:
-  - An IPO allows a company to sell shares to the public for the first time.
-  - The NYSE closing auction is one of the busiest trading times, with an average of 223 million shares traded.
-  - The bid-ask spread is the difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept.
-  - OTC markets allow smaller companies to trade without listing on major exchanges.
+  - IPO example:
+        A private company lists its shares on a major exchange, offering them to the public for the first time.
+        Investors gain early access to a growing business, while the company raises capital for expansion.
+  - Secondary market example:
+        An investor buys shares of a well-known company from another investor on an exchange.
+        Liquidity allows investors to enter or exit positions easily without affecting company operations.
+  - Market maker example:
+        A market maker continuously quotes buy and sell prices for a stock.
+        Reduces trading friction and improves execution reliability, especially during volatile periods.
 definitions:
   - term: Stock Exchange
     definition: An organized marketplace where shares of ownership in companies are traded between buyers and sellers.
@@ -26,11 +37,14 @@ definitions:
   - term: Market Maker
     definition: A firm or trader that provides buy and sell quotes to keep trading active.
 common_mistakes:
-  - Confusing the primary market with the secondary market.
-  - Not understanding the role of market makers in providing liquidity.
+  - Confusing IPO investing with secondary market trading.
+  - Viewing exchanges as passive venues rather than active market systems.
+  - Ignoring the role of liquidity providers in price formation.
   - Misinterpreting the bid-ask spread as a fee rather than a price difference.
 questions_to_think:
   - How does the NYSE closing auction determine stock prices?
   - What is the role of market makers in maintaining liquidity?
   - What are the key differences between auction-based and electronic exchanges?
+  - How do electronic exchanges improve market efficiency?
+  - What risks exist in less regulated or OTC markets?
 source: https://www.investopedia.com/articles/basics/04/092404.asp

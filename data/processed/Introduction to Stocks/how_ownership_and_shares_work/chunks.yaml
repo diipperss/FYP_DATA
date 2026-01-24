@@ -1,39 +1,38 @@
-title: Introduction to Stocks
-summary: Shares represent units of ownership in a company, available as common or preferred types. They allow investors to participate in the company's growth through dividends and capital gains, with preferred shares offering priority in distributions. Shares are non-reimbursable, and companies can repurchase or redeem them under specific conditions. Key aspects include ownership structure, types of shares, and regulatory frameworks.
+title: Introduction to Stocks and Share Ownership
+summary: This lesson expands on stock ownership by explaining how shares define economic rights, control, and valuation. It links share issuance, ownership structure, and market capitalization to investor returns, while introducing practical concepts such as fractional shares and buybacks.
 key_points:
-  - Shares are units of ownership in a company, available as common or preferred shares.
-  - Common shares provide voting rights and residual claims on profits, while preferred shares have priority in distributions and typically no voting rights.
-  - Shares are non-reimbursable, meaning companies aren't legally required to return investors' money.
-  - Companies can issue, repurchase, or redeem shares, with authorized shares set by the board.
-  - Publicly traded shares are regulated by the SEC, while private shares may be issued through stock options.
-  - Fractional shares allow investors to purchase portions of a single share, making stock more accessible.
-  - Outstanding shares represent the shares currently held by investors and insiders.
-  - The share price and the number of shares together determine a company's market capitalization.
+  - Shares are standardized units of ownership that determine an investor’s economic and voting rights.
+  - Common and preferred shares differ in voting power, income priority, and risk exposure.
+  - Shares are non-reimbursable, meaning investors bear the risk of business performance.
+  - Companies define authorized shares and control issuance through their boards.
+  - Outstanding shares reflect current ownership and directly affect market capitalization.
+  - Public shares are regulated, while private shares are often distributed through options or private placements.
+  - Fractional shares increase accessibility by lowering capital requirements for investors.
 examples:
-  - A company authorizes 10 million shares but issues only 8 million.
-  - An investor with $100 could buy 0.1 shares of a stock priced at $1,000 per share.
-  - A company buys back shares, reducing the number of shares outstanding and increasing each remaining shareholder's ownership percentage.
+  - Share issuance example: A company authorizes 10 million shares and issues 8 million, establishing ownership distribution and valuation.
+  - Fractional share example: An investor with limited capital buys 0.1 shares of a $1,000 stock, gaining proportional exposure.
+  - Buyback example: A company repurchases shares, reducing outstanding shares and increasing earnings per share for remaining investors.
 definitions:
   - term: Shares
-    definition: Units of ownership in a company, available as common or preferred, representing equity stakes.
+    definition: Units of ownership in a company that represent equity stakes.
   - term: Common Shares
-    definition: Shares providing voting rights and residual claims on profits, with potential growth through dividends and capital gains.
+    definition: Shares that provide voting rights and residual profit claims.
   - term: Preferred Shares
-    definition: Shares with priority in distributions and set payment criteria, typically without voting rights.
+    definition: Shares with fixed distribution rules and priority over common shares.
   - term: Authorized Shares
-    definition: The maximum number of shares a company can issue, determined by its board of directors.
+    definition: The maximum number of shares a company is legally allowed to issue.
   - term: Outstanding Shares
-    definition: The total shares held by all shareholders, including insiders and institutions, excluding treasury shares.
+    definition: Shares currently held by investors, excluding treasury shares.
   - term: Market Capitalization
-    definition: The company's value as determined by stock price multiplied by the number of outstanding shares.
+    definition: The total market value of a company calculated as share price multiplied by outstanding shares.
   - term: Fractional Shares
-    definition: Portions of a single share, allowing investors to purchase a part of a stock based on their investment amount.
+    definition: Portions of a share that allow partial ownership based on investment amount.
 common_mistakes:
-  - Confusing "shares" and "stocks" as interchangeable terms when they have distinct technical definitions.
-  - Assuming that all shares are treated equally, not recognizing the differences between common and preferred shares.
-  - Believing that companies must reimburse shareholders for their investments, not understanding that shares are non-reimbursable.
+  - Treating shares and stocks as identical concepts without understanding structural differences.
+  - Assuming all shareholders have equal rights regardless of share class.
+  - Expecting guaranteed repayment of invested capital.
 questions_to_think:
-  - What are the key differences between common shares and preferred shares?
-  - How does the concept of fractional shares benefit individual investors with limited capital?
-  - What regulatory bodies oversee the trading of shares in public and private markets?
+  - How do outstanding shares influence a company’s valuation?
+  - Why might a company repurchase its own shares?
+  - How do fractional shares change market participation?
 source: https://www.investopedia.com/terms/s/shares.asp

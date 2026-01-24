@@ -1,37 +1,57 @@
 title: Understanding Corporate Actions
-summary: This article explains corporate actions such as stock splits, dividends, and mergers, and how they impact investments. It outlines voluntary and mandatory actions, examples, and steps to respond.
+summary: This lesson explains corporate actions as strategic decisions that alter share structure, ownership, or investor returns. It links these actions to earlier concepts such as share count, valuation, and shareholder rights, helping investors understand how corporate decisions translate into portfolio outcomes.
 key_points:
-  - Corporate actions are events that affect shareholder investments.
-  - Voluntary actions require shareholder response, while mandatory actions are automatic.
-  - Examples include stock splits, dividends, mergers, and spin-offs.
-  - Stock splits change the number of shares and the price per share but not the total value of your position.
-  - Reverse splits do the opposite and are often used to meet listing requirements.
-  - Vanguard provides resources for accessing and participating in corporate actions.
+  - Corporate actions are initiated by companies and directly affect shareholders.
+  - Actions may change share count, ownership structure, or cash flows.
+  - Corporate actions are classified as voluntary or mandatory based on investor choice.
+  - Stock splits adjust share count and price without changing total investment value.
+  - Reverse stock splits consolidate shares to meet regulatory or listing requirements.
+  - Dividends and spin-offs redistribute value to shareholders in different forms.
+  - Brokerages provide tools to track and respond to corporate actions.
 examples:
-  - Forward stock split example: 10 million shares at $9 each becomes 30 million shares at $3 each.
-  - Reverse stock split example: 10 million shares at $9 each becomes 5 million shares at $18 each.
-  - Cash dividend example: a company pays $0.50 per share, so an investor with 100 shares receives $50.
-  - Spin-off example: a parent company gives shareholders shares in a newly independent subsidiary.
+  - Forward stock split example: 
+        A company with 10 million shares priced at $9 each executes a 3-for-1 forward stock split. 
+        The total number of shares increases to 30 million, and the share price adjusts to $3. 
+        Each shareholder’s proportional ownership remains unchanged, but the lower price can make shares more accessible to small investors and may improve liquidity.
+        Investors now hold three times the number of shares they previously owned. 
+        The total investment value remains the same, but they can trade shares more easily due to the lower per-share price.
+  - Reverse stock split example:
+        A company with 10 million shares priced at $9 each executes a 1-for-2 reverse stock split. 
+        The total number of shares reduces to 5 million, and the share price increases to $18. 
+        Reverse splits are often used to maintain minimum listing requirements or enhance the perceived value of a stock.
+        Each investor’s total investment value stays the same, but the number of shares held decreases. 
+        Reverse splits may reduce the number of small shareholders and can affect liquidity.
+  - Dividend example:
+        A company declares a cash dividend of $0.50 per share. 
+        An investor holding 100 shares receives $50 in cash. 
+        Dividends represent a direct return on investment and can influence total shareholder yield.
+        Shareholders gain immediate income without selling shares. 
+        The stock price may adjust downward on the ex-dividend date to reflect the payout.
+  - Spin-off example:
+        A parent company creates a new independent subsidiary and distributes its shares to existing shareholders. 
+        For example, a shareholder holding 100 shares of the parent company may receive 10 shares of the new company.
+        Investors gain ownership in a separate business in addition to their original holdings. 
+        Spin-offs allow shareholders to participate in growth potential of the new company while retaining their stake in the parent company.
 definitions:
   - term: Corporate Action
-    definition: An event initiated by a company that affects shareholders' investments, either voluntarily or mandatorily.
+    definition: A company-initiated event that changes shareholder value, structure, or payouts.
   - term: Voluntary Corporate Action
-    definition: An event where shareholders can choose an outcome, requiring them to respond to participate.
+    definition: An action requiring shareholder participation or decision.
   - term: Mandatory Corporate Action
-    definition: An event with no choice for shareholders, automatically applied to their investments without needing a response.
+    definition: An action automatically applied to all shareholders.
   - term: Dividend
-    definition: A cash or stock payment a company makes to shareholders, usually from profits.
+    definition: A payment distributed to shareholders from company earnings.
   - term: Stock Split
-    definition: A corporate action increasing the number of shares to make them more affordable, without changing the shareholder's overall stake.
+    definition: An increase in shares outstanding accompanied by a proportional price reduction.
   - term: Reverse Stock Split
-    definition: A corporate action decreasing the number of shares to maintain listing standards, without changing the shareholder's overall stake.
+    definition: A reduction in shares outstanding with a corresponding price increase.
   - term: Spin-off
-    definition: A mandatory corporate action where a parent company creates a new independent company, and shareholders retain their position in the parent company.
+    definition: The creation of an independent company whose shares are distributed to existing shareholders.
 common_mistakes:
-  - Missing the response deadline for voluntary actions, leading to missed opportunities.
-  - Not understanding the difference between voluntary and mandatory actions, causing confusion.
+  - Ignoring voluntary action deadlines and losing potential benefits.
+  - Misinterpreting stock splits as value creation.
 questions_to_think:
-  - What are the differences between voluntary and mandatory corporate actions?
-  - How do stock splits affect the number of shares and their market price?
-  - What steps should I take to participate in a voluntary corporate action?
+  - How do corporate actions reinforce the concept of share ownership?
+  - Why do companies use stock splits or reverse splits instead of changing fundamentals?
+  - How should investors prepare for voluntary corporate actions?
 source: https://investor.vanguard.com/investor-resources-education/online-trading/corporate-actions

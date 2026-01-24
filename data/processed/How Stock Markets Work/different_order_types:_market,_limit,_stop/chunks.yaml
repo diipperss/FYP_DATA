@@ -1,16 +1,31 @@
 title: Understanding Market, Limit, and Stop Orders
-summary: This article explains the three common order types used in stock trading: market orders, limit orders, and stop orders. It describes when and how to use each type to achieve specific trading goals.
+summary: This lesson explains the core order types—market, limit, stop, and stop-limit—and how they shape execution outcomes, risk management, and price control. It connects each order type to investor intent, market conditions, and liquidity, helping users choose the right tool for speed, precision, or protection.
 key_points:
-  - Market orders execute at the best available price but don't guarantee a specific price.
-  - Limit orders specify a maximum buy price or minimum sell price, ensuring better execution prices but not guaranteed execution.
-  - Stop orders trigger a market order when a stock reaches a specified price, used for protection against losses or to capture gains.
-  - Stop-limit orders add a price limit after the stop is triggered, reducing slippage but risking no fill.
-  - Time in force (day, GTC) controls how long an order stays active.
+  - Market orders prioritize immediate execution but expose traders to price uncertainty.
+  - Limit orders provide price control but may not execute if the market does not reach the specified price.
+  - Stop orders are primarily used for risk management and automatically convert into market orders once triggered.
+  - Stop-limit orders add price control after triggering but risk non-execution during fast price movements.
+  - Time-in-force settings determine how long orders remain active and affect execution behavior.
 examples:
-  - Market order example: A trader might use a market order to buy a stock immediately at the current price.
-  - Limit order example: A trader might place a buy limit order below the current price to purchase a stock at a lower price.
-  - Stop order example: A sell stop order could be placed below the current market price to protect against a potential decline.
-  - Stop-limit example: A trader sets a stop at $95 and a limit at $94 to avoid selling far below the stop price.
+  - Market order execution example:
+        A trader submits a market order during a volatile earnings announcement, when prices are moving rapidly.
+        Highlights how market orders can execute far from expected prices during high volatility, increasing slippage.
+
+  - Limit order discipline example:
+        An investor places a buy limit order below the current market price, waiting for a temporary pullback.
+        Demonstrates price discipline but also the risk of missing the trade entirely if the stock continues rising.
+
+  - Stop-loss protection example:
+        A long-term investor sets a stop order below a key support level to limit downside risk.
+        Automates risk management but may trigger prematurely during short-term market noise.
+
+  - Stop-limit execution risk example:
+        A stop-limit order triggers during a sudden sell-off but fails to execute because prices gap below the limit.
+        Shows how controlling slippage can come at the cost of execution certainty.
+
+  - Time-in-force oversight example:
+        A good-til-canceled (GTC) limit order remains active for weeks without being monitored.
+        Illustrates how forgotten orders can execute unexpectedly as market conditions change.
 definitions:
   - term: Market Order
     definition: An order to buy or sell a stock at the market's best available price, ensuring execution but not a specific price.
@@ -32,4 +47,8 @@ questions_to_think:
   - When would you use a market order instead of a limit order?
   - How can you adjust the risk of slippage when using stop orders?
   - What factors should you consider when setting the stop price for a stop order?
+  - How does volatility change the effectiveness of stop and stop-limit orders?
+  - How should liquidity influence order type selection?
+
+
 source: https://www.schwab.com/learn/story/3-order-types-market-limit-and-stop-orders

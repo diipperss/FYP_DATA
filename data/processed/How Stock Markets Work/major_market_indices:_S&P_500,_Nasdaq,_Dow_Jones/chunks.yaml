@@ -1,18 +1,28 @@
 title: Major Market Indices: S&P 500, Nasdaq, Dow Jones
-summary: The text presents current market data for major U.S. indices including the Dow Jones Industrial Average, NASDAQ Composite Index, and S&P 500 Index, showing their latest prices, changes, and percentage changes. It also includes related market news and stock performance highlights.
+summary: >
+  This lesson explains what major market indices are, how they are constructed, and why they are widely used
+  as benchmarks for market performance. It focuses on the S&P 500, Nasdaq Composite, and Dow Jones Industrial Average,
+  highlighting their differences in weighting, sector exposure, and relevance to investors.
 key_points:
-  - The Dow Jones Industrial Average closed at 48,488.59 with a decline of 870.74 (-1.76%).
-  - The NASDAQ Composite Index closed at 22,954.32 with a decline of 561.07 (-2.39%).
-  - The S&P 500 Index closed at 6,796.86 with a decline of 143.15 (-2.06%).
-  - The Global Dow Realtime USD closed at 6,248.14 with a slight decline of 7.09 (-0.11%).
-  - Gold Continuous Contract increased to $4,881.70 with a rise of 115.90 (2.43%).
-  - Crude Oil WTI (NYM $/bbl) Front Month rose slightly to $60.41 with a change of 0.05 (0.08%).
-  - Indices are benchmarks used to track broad market performance over time.
+  - Market indices track the performance of a selected group of stocks.
+  - The S&P 500 represents large-cap U.S. companies and is often used as a proxy for the overall market.
+  - The Nasdaq Composite has a heavier concentration in technology and growth-oriented companies.
+  - The Dow Jones Industrial Average tracks 30 major companies using a price-weighted methodology.
+  - Index weighting methods influence how individual stocks impact index movements.
+  - Investors use indices as benchmarks to evaluate portfolio and fund performance.
+  - Understanding indices helps investors interpret market headlines more accurately.
+  - Indices serve as foundations for ETFs, mutual funds, and passive investment strategies.
+  - Knowing index composition prevents false assumptions about “the market.”
 examples:
-  - Dow Jones: 48,488.59 | -870.74 | -1.76%
-  - NASDAQ Composite: 22,954.32 | -561.07 | -2.39%
-  - S&P 500: 6,796.86 | -143.15 | -2.06%
-  - The S&P 500 is often used as a proxy for the overall U.S. stock market.
+  - S&P 500 benchmark example:
+        A diversified equity portfolio delivers a 9% annual return while the S&P 500 returns 11% over the same period.
+        Investors can assess whether underperformance is due to market conditions or portfolio construction choices.
+  - Nasdaq volatility example:
+        During a technology sell-off, the Nasdaq declines more sharply than the S&P 500.
+        Highlights higher growth exposure and volatility, helping investors align index exposure with risk tolerance.
+  - Dow Jones weighting example:
+        A high-priced Dow component rises significantly, moving the index despite representing a smaller company by market value.
+        Demonstrates how price-weighted indices can behave differently from market-cap-weighted indices.
 definitions:
   - term: Market Index
     definition: A statistical measure of the performance of a group of securities representing a specific market segment.
@@ -35,6 +45,7 @@ common_mistakes:
   - Assuming index performance reflects every stock equally, rather than the index composition and weighting.
 questions_to_think:
   - How do the changes in these major indices reflect the overall health of the U.S. market?
-  - What factors could influence the performance of the S&P 500 compared to the Dow Jones?
-  - Why might investors be particularly concerned about the performance of the NASDAQ Composite Index?
+  - Why might the Nasdaq outperform or underperform other indices during different market cycles?
+  - How does index construction affect passive investing strategies?
+  - Which index best reflects your personal investment goals?
 source: https://www.marketwatch.com/market-data/us?gaa_at=eafs&gaa_n=AWEtsqeuQFNCuwm_QaIKpe2OGQ-JGSDSpNqz9TaxpaMLoJve--gLT2xi-NDM&gaa_ts=6970e119&gaa_sig=xnpz0uRs6IR4LPtjj1ISbsLImFa0dxJ-UC94jMTI3AXydTmeaTfAHigsiTZ0xls-3S17VuMDME6be5eMnl-9hA%3D%3D

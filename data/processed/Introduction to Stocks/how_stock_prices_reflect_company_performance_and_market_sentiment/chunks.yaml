@@ -1,33 +1,42 @@
-title: Understanding Stock Prices and Market Sentiment
-summary: This article explores how stock prices are influenced by fundamental factors like earnings and growth rates, as well as technical factors such as market trends and liquidity. It also discusses the impact of news and market sentiment on stock behavior, emphasizing the importance of both fundamentals and investor psychology in shaping stock values.
+title: How Stock Prices Reflect Fundamentals and Market Sentiment
+summary: Stock prices are determined by both a company’s financial fundamentals and investor behavior in the market. This lesson explains how earnings, growth expectations, liquidity, market sentiment, and news interact to influence stock pricing, highlighting why prices can deviate from intrinsic value in the short term.
 key_points:
-  - Stock prices are determined by a combination of fundamental and technical factors.
-  - Fundamental factors include earnings, growth rates, and discounted present value of future earnings.
-  - Technical factors involve market trends, liquidity, and external economic conditions.
-  - News and market sentiment significantly impact stock prices, often overriding fundamental analysis in the short term.
-  - Supply and demand for shares can move prices even when company fundamentals are unchanged.
-  - Company guidance and analyst expectations can shift sentiment quickly.
+  - Stock prices are shaped by fundamental value and market behavior.
+  - Fundamental factors include earnings, revenue growth, cash flows, and long-term profit potential.
+  - Technical and market factors include liquidity, trading volume, investor sentiment, and overall economic conditions.
+  - News, guidance, and changing expectations can amplify or override fundamentals temporarily.
+  - Supply and demand dynamics influence stock prices even when fundamentals remain stable.
+  - Investor expectations often drive short-term price movements more than actual results.
 examples:
-  - A retail stock's decline due to negative sentiment affecting the entire sector.
-  - High liquidity in large-cap stocks versus the liquidity discount for small-cap stocks.
-  - A company beats earnings but falls because investors expected even higher growth.
+  - Sector sentiment example:
+        A retail company reports stable earnings, but negative news about overall consumer spending causes investors to sell across the sector, driving down the stock price.
+        Investors may experience losses despite strong fundamentals, highlighting the importance of market sentiment and diversification.
+  - Liquidity example:
+        A large-cap stock trades millions of shares daily, allowing easy buying and selling without major price changes. A small-cap stock trades infrequently, so investors demand a lower price to compensate for illiquidity risk.
+        Portfolio strategies should consider liquidity risk, especially in smaller or thinly traded stocks.
+  - Expectations vs results example:
+        A company beats last quarter’s earnings but fails to meet higher market expectations, causing a decline in stock price despite positive results.
+        Understanding investor expectations is crucial, as price movements reflect sentiment relative to anticipated performance, not just absolute results.
+  - Supply and demand example:
+        Positive media coverage or analyst upgrades can increase demand for a stock, driving up its price even if the company’s fundamentals have not changed.
+        Investors need to distinguish between short-term sentiment-driven moves and long-term fundamental value.
 definitions:
   - term: Earnings Per Share (EPS)
-    definition: The portion of a company's profit allocated to each outstanding share of common stock.
+    definition: Profit allocated to each outstanding share, used to assess company profitability.
   - term: Valuation Multiple (P/E)
-    definition: The ratio of a company's stock price to its earnings per share, reflecting the price paid for future earnings.
+    definition: Price-to-earnings ratio reflecting how much investors pay for $1 of earnings.
   - term: Market Sentiment
-    definition: The overall psychology of investors that can influence stock prices independently of fundamentals.
+    definition: Collective investor attitudes and emotions influencing buying and selling decisions.
   - term: Liquidity
-    definition: How easily a stock can be bought or sold without significantly affecting its price.
+    definition: Ease of buying or selling a stock without significantly affecting its price.
   - term: Fundamentals
-    definition: Company performance factors such as revenue, earnings, growth, and balance sheet strength.
+    definition: Core measures of a company’s financial health, including revenue, earnings, growth prospects, and balance sheet strength.
   - term: Technical Analysis
-    definition: The study of price and volume patterns to evaluate market behavior and trends.
+    definition: Analysis of price patterns and trading volume to understand investor behavior and predict trends.
 common_mistakes:
-  - Assuming that strong earnings always lead to stock price increases without considering market sentiment.
-  - Ignoring liquidity differences between large-cap and small-cap stocks when evaluating stock performance.
+  - Assuming strong earnings automatically lead to immediate price increases.
+  - Ignoring liquidity differences when evaluating stock performance.
 questions_to_think:
-  - How do market trends and liquidity affect the valuation of small-cap versus large-cap stocks?
-  - What role does market sentiment play in influencing stock prices, and how can investors account for it?
+  - Why might a stock price fall even after strong earnings?
+  - How do liquidity and sentiment affect small-cap versus large-cap stock pricing?
 source: https://www.investopedia.com/articles/basics/04/100804.asp

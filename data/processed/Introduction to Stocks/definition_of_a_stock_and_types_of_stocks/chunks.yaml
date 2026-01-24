@@ -1,40 +1,40 @@
 title: Introduction to Stocks
-summary: This lesson explains what stocks are, their role in corporate finance, and the different types of stocks available. It covers ownership, shareholder rights, and the distinction between common and preferred stock.
+summary: This lesson introduces stocks as the foundation of equity investing, explaining how they represent ownership in a corporation and why companies issue them. It connects stock ownership to shareholder rights, profit participation, and corporate financing, and sets the groundwork for understanding different stock types and market behavior.
 key_points:
-  - Stocks represent ownership in a corporation.
-  - A stock is a security that gives shareholders a claim to a portion of the company's profits.
-  - There are two main types of stock: common and preferred.
-  - Common shareholders usually have voting rights, while preferred shareholders often do not.
-  - Dividends are not guaranteed and depend on company decisions and profits.
-  - Stock ownership is separate from corporate control, which depends on voting power.
-  - Companies issue stock to raise capital without taking on debt.
+  - Stocks represent partial ownership in a corporation rather than direct ownership of its assets.
+  - A stock is an equity security that gives shareholders a claim on a company’s profits and residual value.
+  - Companies issue stocks to raise capital for growth without incurring debt obligations.
+  - Ownership is divided into shares, which determine an investor’s proportional stake in the company.
+  - Shareholders may receive dividends, but dividends are discretionary and depend on company performance and policy.
+  - Voting power, not just share ownership, determines influence over corporate decisions.
+  - The two main categories of stock are common and preferred, each with different rights and priorities.
 examples:
-  - A shareholder owning 33% of shares does not own one-third of the company, but owns one-third of the shares.
-  - A company issues new shares in an IPO to raise money for expansion and marketing.
-  - An investor buys common shares to vote on board elections and potentially receive dividends.
+  - Shares example: A shareholder owning 33% of a company’s shares owns one-third of the equity, not one-third of the physical assets or day-to-day control.
+  - IPO example: A growing company launches an IPO to fund expansion, research, and marketing without borrowing money.
+  - Shares example: An investor purchases common shares to gain voting rights and long-term growth potential rather than fixed income.
 definitions:
   - term: Stock
-    definition: A stock, also called an equity or a share, is an ownership stake in the corporation that issued it.
+    definition: A stock, also known as equity or a share, represents partial ownership in a corporation and a claim on its future profits and assets.
   - term: Shareholder
-    definition: A person, company, or institution that owns at least one share of a company's stock.
+    definition: An individual or institution that owns one or more shares of a company’s stock.
   - term: Common Stock
-    definition: Common stock usually entitles the owner to vote at shareholders’ meetings and to receive any dividends paid out by the corporation. 
+    definition: A type of stock that typically grants voting rights and residual claims on profits after all obligations are met.
   - term: Preferred Stock
-    definition: Preferred stock typically does not have voting rights but may receive dividends before common stockholders. 
+    definition: A class of stock that generally provides priority in dividends and liquidation but usually lacks voting rights.
   - term: Dividend
-    definition: A portion of a company's earnings that is distributed to shareholders, usually on a regular basis.
+    definition: A portion of a company’s earnings distributed to shareholders, usually in cash or additional shares.
   - term: Equity
-    definition: Ownership in a company, represented by shares of stock.
+    definition: Ownership interest in a company, represented by shares of stock.
   - term: IPO (Initial Public Offering)
-    definition: The first time a private company sells shares to the public to raise capital.
+    definition: The process by which a private company offers its shares to the public for the first time.
   - term: Assets
-    definition: Anything of value that is owned by a person or company.
+    definition: Resources owned or controlled by a company that have economic value.
   - term: Liquidation
-    definition: The process of bringing a business to an end and distributing its assets to claimants.
+    definition: The process of selling a company’s assets and distributing the proceeds to claimants when the business ends.
 common_mistakes:
-  - Confusing ownership of shares with actual control of the corporation.
-  - Assuming that owning a majority of shares equates to owning the entire company.
+  - Assuming stock ownership guarantees control over company operations.
+  - Believing that owning a majority of shares means owning all company assets outright.
 questions_to_think:
-  - What is the difference between common stock and preferred stock?
-  - How does owning shares of a company differ from owning the company itself?
+  - How does stock ownership differ from direct ownership of a private business?
+  - Why might a company prefer issuing stock over taking on debt?
 source: https://www.investopedia.com/terms/s/stock.asp
