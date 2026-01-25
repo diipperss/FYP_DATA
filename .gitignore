@@ -6,18 +6,27 @@ __pycache__/
 *.pyo
 *.pyd
 *.so
-
-# Virtual environment
+*.egg-info/
+*.egg
 .venv/
+env/
+venv/
 
 # =========================
-# Crawl / Generated Data
+# Crawl / Processed Data / Generated Data
 # =========================
 #data/
 *.log
+*.sqlite
+*.db
+*.csv
+*.parquet
+*.tmp
+*.cache
+*.bak
 
 # =========================
-# Playwright
+# Playwright (if used)
 # =========================
 .ms-playwright/
 
@@ -28,12 +37,20 @@ __pycache__/
 Thumbs.db
 .vscode/
 .idea/
-
-# Environment variables
-.env
+*.swp
+*.swo
 
 # =========================
-# LLaMA / Model Files
+# Environment Variables
+# =========================
+.env
+.env.*                 
+
+# =========================
+# ML / LLaMA / Model Files
 # =========================
 models/*.gguf
+*.pt
+*.ckpt
+*.bin
 Meta-Llama-3-8B-Instruct.Q4_K_M.gguf
